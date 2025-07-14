@@ -74,7 +74,6 @@ To run this project in Google Colab:
 
 
 ### Install Requirements:
-
-  `
-  pip install -r requirements.txt
-  `
+    ```python
+    pip install -r requirements.txt
+    ```
