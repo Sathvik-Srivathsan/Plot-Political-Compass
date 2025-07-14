@@ -194,7 +194,6 @@ def run_scraper(output_file=output_jsonl_file):
 
     print(f"\nscraping complete! data saved to '{output_file}'")
 
-# run program
 if __name__ == "__main__":
     print("starting program 1: structured ideology data scraper")
     run_scraper()
