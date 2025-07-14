@@ -1,0 +1,6517 @@
+{
+  "Abolitionism": {
+    "Extremism Rating": 27,
+    "Influences": [
+      "Black Nationalism",
+      "Bolivarianism",
+      "Chinese Theocracy",
+      "Distributism",
+      "Girondism",
+      "Hamiltonianism",
+      "Hydrarchy",
+      "Jacobinism",
+      "Khrushchevism",
+      "Populareism",
+      "Radicalism"
+    ]
+  },
+  "Absolute Monarchism": {
+    "Extremism Rating": 87,
+    "Influences": [
+      "Black Hundredism",
+      "Bonapartism",
+      "British Fascism",
+      "Carlism",
+      "Chinese Theocracy",
+      "Enlightened Absolutism",
+      "Francoism",
+      "Integral Nationalism",
+      "Jacobitism",
+      "Korwinism",
+      "Monarcho-Capitalism",
+      "Monarcho-Fascism",
+      "Monarcho-Socialism",
+      "Neocameralism",
+      "Neoreactionaryism"
+    ]
+  },
+  "Accelerationism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Acid Communism",
+      "Alt-Right",
+      "CyberFeminism",
+      "Landian Accelerationism",
+      "LesbiaNRx",
+      "Unconditional Accelerationism",
+      "Zero Accelerationism"
+    ]
+  },
+  "Acid Communism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Soulism"
+    ]
+  },
+  "African Socialism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Gaddafism",
+      "Maoism–Third Worldism"
+    ]
+  },
+  "Agorism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Ingsoc",
+      "Left-Wing Market Anarchism",
+      "Manosphere",
+      "Synthesis Anarchism",
+      "Techno-Anarchism"
+    ]
+  },
+  "Agrarian Anarchism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Catholic Workerism",
+      "Christian Anarchism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Agrarian Capitalism": {
+    "Extremism Rating": 45,
+    "Influences": [
+      "Banana Republicanism",
+      "Capitalism",
+      "Georgism",
+      "Jacksonian Democracy",
+      "Jeffersonian Democracy",
+      "Theodemocracy"
+    ]
+  },
+  "Agrarian Socialism": {
+    "Extremism Rating": 58,
+    "Influences": [
+      "Agrarian Anarchism",
+      "Barracks Communism",
+      "Crusade of Romanianism",
+      "De Francism",
+      "Diggerism",
+      "Gandhian Socialism",
+      "Ho Chi Minh Thought",
+      "Liberal Socialism",
+      "Maoism",
+      "Neozapatismo",
+      "Pol Potism",
+      "Populareism",
+      "Strasserism",
+      "Titoism",
+      "Tridemism"
+    ]
+  },
+  "Agrarianism": {
+    "Extremism Rating": 25,
+    "Influences": [
+      "Agrarian Anarchism",
+      "Agrarian Capitalism",
+      "Agrarian Socialism",
+      "Circulus Theory",
+      "Diggerism",
+      "Distributism",
+      "Feudalism",
+      "Industrialism",
+      "Jacksonian Democracy",
+      "National Agrarianism",
+      "Neoluddism",
+      "Physiocracy",
+      "Populareism"
+    ]
+  },
+  "Alt-Lite": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Conservative Liberalism",
+      "Homoconservatism",
+      "Korwinism",
+      "Libertarian Conservatism",
+      "Manosphere",
+      "National Conservatism",
+      "National Liberalism",
+      "National Libertarianism",
+      "Neoconservatism",
+      "Paleoconservatism",
+      "Reactionary Liberalism",
+      "Right-Wing Populism",
+      "Ultranationalism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Alt-Right": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Alt-Lite",
+      "Anarcho-Fascism",
+      "Manosphere",
+      "National Capitalism",
+      "National Libertarianism",
+      "Odalism",
+      "Paleoconservatism",
+      "Reactionary Liberalism",
+      "Right-Wing Populism",
+      "Turkish Idealism",
+      "Welfare Chauvinism",
+      "White Nationalism"
+    ]
+  },
+  "Alter-Globalism": {
+    "Extremism Rating": 57,
+    "Influences": [
+      "Austromarxism",
+      "Left-Wing Nationalism",
+      "Left-Wing Populism",
+      "Maoism–Third Worldism",
+      "Neosocialism",
+      "Neozapatismo"
+    ]
+  },
+  "American Model": {
+    "Extremism Rating": 45,
+    "Influences": [
+      "Anarcho-Frontierism",
+      "Bull Moose Progressivism",
+      "Ingsoc",
+      "Jacksonian Democracy",
+      "Neo-Enlightenment",
+      "Neoconservatism",
+      "Neoliberalism",
+      "Objectivism",
+      "Paleoconservatism",
+      "Silver Legionism",
+      "Theodemocracy"
+    ]
+  },
+  "Anarcha-Feminism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Anarcho-Distributism",
+      "Libertarian Feminism",
+      "Queer Anarchism",
+      "Revolutionary Progressivism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarchism": {
+    "Extremism Rating": 87,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Anarcho-Collectivism",
+      "Anarcho-Communism",
+      "Anarcho-Conservatism",
+      "Anarcho-Fascism",
+      "Anarcho-Individualism",
+      "Anarcho-Jazzism",
+      "Anarcho-Monarchism",
+      "Anarcho-Naturism",
+      "Anarcho-Nihilism",
+      "Anarcho-Primitivism",
+      "Anarcho-Syndicalism",
+      "Anarcho-Totalitarianism",
+      "Anti-Japaneseism",
+      "Buddhist Anarchism",
+      "Catholic Workerism",
+      "Christian Anarchism",
+      "Independence Anarchism",
+      "Islamic Anarchism",
+      "Jewish Anarchism",
+      "Left-Wing Market Anarchism",
+      "Libertarian Socialism",
+      "National Anarchism",
+      "Nomadology",
+      "Panarchism",
+      "Religious Anarchism",
+      "Social Anarchism",
+      "Synthesis Anarchism",
+      "Techno-Anarchism"
+    ]
+  },
+  "Anarcho-Capitalism": {
+    "Extremism Rating": 60,
+    "Influences": [
+      "Agorism",
+      "Anarcho-Monarchism",
+      "Avaritionism",
+      "Geoanarchism",
+      "Hoppeanism",
+      "Korwinism",
+      "Left-Rothbardianism",
+      "Manosphere",
+      "Neoreactionaryism",
+      "Reactionary Libertarianism"
+    ]
+  },
+  "Anarcho-Collectivism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Anarcha-Feminism",
+      "Anarcho-Communism",
+      "Anarcho-Syndicalism",
+      "Leninism",
+      "Machajskism",
+      "Platformism",
+      "Post-Colonial Anarchism",
+      "Social Anarchism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarcho-Communism": {
+    "Extremism Rating": 60,
+    "Influences": [
+      "Anarcho-Jazzism",
+      "Anarcho-Syndicalism",
+      "Anationalism",
+      "Anti-Fascism",
+      "Barracks Communism",
+      "Communization Theory",
+      "Democratic Confederalism",
+      "Ego-Communism",
+      "Insurrectionary Anarchism",
+      "Libertarian Municipalism",
+      "Manosphere",
+      "Mao-Spontex",
+      "Platformism",
+      "Post-Leftism",
+      "Queer Anarchism",
+      "Revolutionary Progressivism",
+      "Situationism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarcho-Conservatism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Anarcho-Monarchism",
+      "Christian Anarchism",
+      "Hoppeanism",
+      "Korwinism",
+      "Post-Colonial Anarchism"
+    ]
+  },
+  "Anarcho-Distributism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Catholic Workerism"
+    ]
+  },
+  "Anarcho-Egoism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Anarcho-Individualism",
+      "Anarcho-Jazzism",
+      "Anarcho-Nihilism",
+      "Anarcho-Syndicalism",
+      "Austromarxism",
+      "Avaritionism",
+      "Ego-Communism",
+      "Existentialist Anarchism",
+      "Illegalism",
+      "Insurrectionary Anarchism",
+      "Marxism",
+      "Post-Anarchism",
+      "Post-Leftism",
+      "Queer Anarchism",
+      "Secular Satanism",
+      "Situationism",
+      "Soulism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarcho-Fascism": {
+    "Extremism Rating": 95,
+    "Influences": []
+  },
+  "Anarcho-Frontierism": {
+    "Extremism Rating": 68,
+    "Influences": []
+  },
+  "Anarcho-Individualism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Anarcho-Egoism",
+      "Anarcho-Transhumanism",
+      "Avaritionism",
+      "Existentialist Anarchism",
+      "Illegalism",
+      "Queer Anarchism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarcho-Jazzism": {
+    "Extremism Rating": 100,
+    "Influences": []
+  },
+  "Anarcho-Monarchism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Lys Noir"
+    ]
+  },
+  "Anarcho-Naturism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Anarcho-Primitivism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarcho-Nihilism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Avaritionism",
+      "Insurrectionary Anarchism",
+      "Manosphere",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarcho-Pacifism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Anarcho-Naturism",
+      "Black Anarchism",
+      "Catholic Workerism",
+      "Eco-Anarchism",
+      "Geoanarchism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarcho-Primitivism": {
+    "Extremism Rating": 90,
+    "Influences": [
+      "Anarcho-Nihilism",
+      "Archeofuturism",
+      "Odalism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anarcho-Syndicalism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Anarcho-Distributism",
+      "Catholic Workerism",
+      "Independence Anarchism",
+      "Libertarian Possibilism",
+      "Revolutionary Progressivism",
+      "Synthesis Anarchism",
+      "Titoism"
+    ]
+  },
+  "Anarcho-Totalitarianism": {
+    "Extremism Rating": 98,
+    "Influences": [
+      "Anarcho-Fascism",
+      "Barracks Communism",
+      "Esoteric Socialism",
+      "Illuminatism",
+      "Marxism",
+      "Neoreactionaryism"
+    ]
+  },
+  "Anarcho-Transhumanism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Synthesis Anarchism"
+    ]
+  },
+  "Anationalism": {
+    "Extremism Rating": 65,
+    "Influences": []
+  },
+  "Anti-Authoritarianism": {
+    "Extremism Rating": 10,
+    "Influences": [
+      "Anarchism",
+      "Anti-Fascism",
+      "Autarchy",
+      "Autonomism",
+      "Black Anarchism",
+      "Civil Libertarianism",
+      "Democratic Socialism",
+      "Illegalism",
+      "Impossibilism",
+      "Liberal Socialism",
+      "Libertarian Socialism",
+      "Libertarianism",
+      "Manosphere",
+      "Nomadology",
+      "Philosophical Anarchism",
+      "Piratism",
+      "Progressivism",
+      "Queer Anarchism",
+      "Satanic Theocracy",
+      "Social Libertarianism"
+    ]
+  },
+  "Anti-Centrism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Anti-Realism",
+      "Hutu Power",
+      "Ismism"
+    ]
+  },
+  "Anti-Fascism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Autonomism",
+      "Bundism",
+      "Capitalist Communism",
+      "Council Communism",
+      "Crusade of Romanianism",
+      "Democratic Socialism",
+      "Euskadi Carlism",
+      "Hoxhaism",
+      "Impossibilism",
+      "Left-Wing Populism",
+      "LesbiaNRx",
+      "National Bolshevism",
+      "Neo-Enlightenment",
+      "Revolutionary Progressivism",
+      "State Liberalism",
+      "Titoism",
+      "Trotskyism"
+    ]
+  },
+  "Anti-Japaneseism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Black Hundredism"
+    ]
+  },
+  "Anti-Radicalism": {
+    "Extremism Rating": 8,
+    "Influences": [
+      "Class Dealignment",
+      "Gaullism",
+      "Mediocracy"
+    ]
+  },
+  "Anti-Realism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Ingsoc",
+      "Pol Potism",
+      "State Liberalism"
+    ]
+  },
+  "Apoliticism": {
+    "Extremism Rating": 0,
+    "Influences": [
+      "Ceremonial Monarchism",
+      "Neoreactionaryism",
+      "Radical Apoliticism",
+      "Religious Rejectionism",
+      "Unconditional Accelerationism"
+    ]
+  },
+  "Arab Socialism": {
+    "Extremism Rating": 69,
+    "Influences": [
+      "Ba'athism",
+      "Ethnocacerism",
+      "Gaddafism",
+      "Islamic Socialism"
+    ]
+  },
+  "Archeofuturism": {
+    "Extremism Rating": 72,
+    "Influences": []
+  },
+  "Aristocracy": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Bismarckism",
+      "British Fascism",
+      "Caste System",
+      "Caudillismo",
+      "Classical Conservatism",
+      "Classical Liberalism",
+      "Combatocracy",
+      "Counter-Enlightenment",
+      "Crusadism",
+      "Elective Monarchism",
+      "Feudalism",
+      "Frankfurt School",
+      "Guevarism",
+      "Hoppeanism",
+      "Monarchism",
+      "Noocracy",
+      "Optimateism",
+      "Parliamentarianism",
+      "Paternalistic Conservatism",
+      "Reactionary Socialism",
+      "Roman Republicanism",
+      "Showa Statism",
+      "Technocracy",
+      "Timocracy"
+    ]
+  },
+  "Asocialism": {
+    "Extremism Rating": 82,
+    "Influences": []
+  },
+  "Athenian Democracy": {
+    "Extremism Rating": 67,
+    "Influences": [
+      "Democracy",
+      "E-Democracy",
+      "Libertarian Municipalism",
+      "Roman Republicanism"
+    ]
+  },
+  "Austrian School": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Agorism",
+      "Anarcho-Capitalism",
+      "Hayekism",
+      "Hoppeanism",
+      "Left-Rothbardianism",
+      "Left-Wing Market Anarchism",
+      "Minarchism",
+      "Neo-Enlightenment",
+      "Neoreactionaryism",
+      "Paleolibertarianism",
+      "Reactionary Libertarianism"
+    ]
+  },
+  "Austrofascism": {
+    "Extremism Rating": 72,
+    "Influences": []
+  },
+  "Austromarxism": {
+    "Extremism Rating": 38,
+    "Influences": [
+      "Bundism",
+      "Eurocommunism",
+      "Leninism"
+    ]
+  },
+  "Autarchy": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Agorism"
+    ]
+  },
+  "Authoritarian Capitalism": {
+    "Extremism Rating": 84,
+    "Influences": [
+      "Authoritarian Conservatism",
+      "Banana Republicanism",
+      "Bismarckism",
+      "Corporatocracy",
+      "Dengism",
+      "Francoism",
+      "Horrivelism",
+      "Ilminism",
+      "Monarcho-Capitalism",
+      "National Capitalism",
+      "Neocameralism",
+      "Neoconservatism",
+      "Neoreactionaryism",
+      "Pinochetism",
+      "State Capitalism",
+      "State Liberalism"
+    ]
+  },
+  "Authoritarian Conservatism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Austrofascism",
+      "Bismarckism",
+      "Black Hundredism",
+      "British Fascism",
+      "Carlism",
+      "Fourth Theory",
+      "Francoism",
+      "French Fascism",
+      "Gaullism",
+      "Hutu Power",
+      "Ilminism",
+      "Integralism",
+      "Kahanism",
+      "Khomeinism",
+      "Metaxism",
+      "Monarcho-Fascism",
+      "Neo-Ottomanism",
+      "Neoconservatism",
+      "Paleoconservatism",
+      "Pinochetism",
+      "Reactionary Modernism",
+      "Right-Wing Populism",
+      "Salazarism",
+      "Showa Statism",
+      "Turkish Idealism"
+    ]
+  },
+  "Authoritarianism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Absolute Monarchism",
+      "Anarcho-Totalitarianism",
+      "Authoritarian Capitalism",
+      "Authoritarian Conservatism",
+      "Autocracy",
+      "Buddhist Theocracy",
+      "Catholic Theocracy",
+      "Christian Theocracy",
+      "Clerical Fascism",
+      "Hindu Theocracy",
+      "Illiberal Democracy",
+      "Islamic Theocracy",
+      "Jewish Theocracy",
+      "Matriarchy",
+      "Orthodox Theocracy",
+      "Pagan Theocracy",
+      "Paternalism",
+      "Police Statism",
+      "Protestant Theocracy",
+      "Satanic Theocracy",
+      "Shia Theocracy",
+      "Sikh Theocracy",
+      "Social Authoritarianism",
+      "State Atheism",
+      "State Oriental Orthodoxy",
+      "State Shinto",
+      "State Socialism",
+      "Stratocracy",
+      "Totalitarianism",
+      "Zoroastrian Theocracy"
+    ]
+  },
+  "Autocracy": {
+    "Extremism Rating": 90,
+    "Influences": [
+      "Absolute Monarchism",
+      "Anarcho-Totalitarianism",
+      "Authoritarian Conservatism",
+      "Ba'athism",
+      "Benefactorism",
+      "Bonapartism",
+      "Caesarism",
+      "Caudillismo",
+      "Cultism",
+      "Diarchy",
+      "Fascism",
+      "Francoism",
+      "Gaddafism",
+      "Horrivelism",
+      "Hoxhaism",
+      "Illiberal Democracy",
+      "Ilminism",
+      "Ingsoc",
+      "Juche",
+      "Khrushchevism",
+      "Kleptocracy",
+      "Kraterocracy",
+      "Leninism",
+      "Maoism",
+      "Nazism",
+      "Oligarchy",
+      "Particracy",
+      "Pinochetism",
+      "Pol Potism",
+      "Salazarism",
+      "State Liberalism",
+      "Titoism",
+      "Totalitarianism"
+    ]
+  },
+  "Autonomism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Acid Communism",
+      "Alter-Globalism",
+      "Anarcha-Feminism",
+      "Anarcho-Primitivism",
+      "Chavismo",
+      "Communization Theory",
+      "Insurrectionary Anarchism",
+      "Lys Noir",
+      "Neozapatismo",
+      "Post-Anarchism",
+      "Radical Democracy",
+      "Revolutionary Progressivism",
+      "Socialism of the 21st Century"
+    ]
+  },
+  "Avaritionism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Bio-Posadism"
+    ]
+  },
+  "Ba'athism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Alt-Right"
+    ]
+  },
+  "Babouvism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Anarcho-Communism",
+      "Blanquism",
+      "De Francism",
+      "Marxism",
+      "Neosocialism",
+      "Revolutionary Progressivism"
+    ]
+  },
+  "Banana Republicanism": {
+    "Extremism Rating": 75,
+    "Influences": []
+  },
+  "Barracks Communism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Leninism",
+      "Maoism",
+      "Pol Potism"
+    ]
+  },
+  "Benefactorism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Fordism",
+      "Ingsoc"
+    ]
+  },
+  "Big Tent Liberalism": {
+    "Extremism Rating": 26,
+    "Influences": [
+      "Manosphere",
+      "Third Way"
+    ]
+  },
+  "Bio-Posadism": {
+    "Extremism Rating": 98,
+    "Influences": []
+  },
+  "Bioregionalism": {
+    "Extremism Rating": 65,
+    "Influences": []
+  },
+  "Bismarckism": {
+    "Extremism Rating": 86,
+    "Influences": [
+      "Fabian Socialism",
+      "Nazism",
+      "Social Capitalism"
+    ]
+  },
+  "Black Anarchism": {
+    "Extremism Rating": 84,
+    "Influences": [
+      "Synthesis Anarchism"
+    ]
+  },
+  "Black Hundredism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Alt-Right",
+      "Nazism"
+    ]
+  },
+  "Black Islamism": {
+    "Extremism Rating": 95,
+    "Influences": []
+  },
+  "Black Nationalism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "African Socialism",
+      "Autonomism",
+      "Black Anarchism",
+      "Black Islamism",
+      "Black Zionism",
+      "Hutu Power",
+      "Indigenism",
+      "Maoism–Third Worldism",
+      "Revolutionary Progressivism"
+    ]
+  },
+  "Black Zionism": {
+    "Extremism Rating": 87,
+    "Influences": []
+  },
+  "Blanquism": {
+    "Extremism Rating": 77,
+    "Influences": [
+      "Esoteric Socialism",
+      "Leninism",
+      "Neosocialism"
+    ]
+  },
+  "Bleeding-Heart Libertarianism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Green Libertarianism",
+      "Liberaltarianism",
+      "Libertarian Feminism",
+      "Neo-Enlightenment",
+      "Social Libertarianism",
+      "Steiner-Vallentyne School"
+    ]
+  },
+  "Blueshirtism": {
+    "Extremism Rating": 87,
+    "Influences": []
+  },
+  "Bolivarianism": {
+    "Extremism Rating": 73,
+    "Influences": [
+      "Chavismo",
+      "Francoism",
+      "Socialism of the 21st Century"
+    ]
+  },
+  "Bonapartism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Bolivarianism",
+      "De Francism",
+      "European Federalism",
+      "Fascism",
+      "Ilminism",
+      "Integral Nationalism",
+      "Longism"
+    ]
+  },
+  "Brazilian Integralism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Alt-Right"
+    ]
+  },
+  "British Fascism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right",
+      "Ethnopluralism",
+      "European Federalism",
+      "National Feminism",
+      "Nazism",
+      "Peronism",
+      "Ultranationalism"
+    ]
+  },
+  "Buddhist Anarchism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Buddhist Socialism"
+    ]
+  },
+  "Buddhist Socialism": {
+    "Extremism Rating": 58,
+    "Influences": []
+  },
+  "Buddhist Theocracy": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Buddhist Anarchism",
+      "Buddhist Socialism",
+      "Chinese Theocracy",
+      "Cultism",
+      "Death Worship",
+      "Deep Ecology",
+      "Esoteric Fascism",
+      "State Shinto"
+    ]
+  },
+  "Bull Moose Progressivism": {
+    "Extremism Rating": 43,
+    "Influences": [
+      "Eco-Fascism",
+      "Georgism",
+      "Lawsonomy",
+      "Progressive Conservatism",
+      "Progressivism"
+    ]
+  },
+  "Bundism": {
+    "Extremism Rating": 53,
+    "Influences": []
+  },
+  "Byzantine Model": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Cameralism",
+      "Crusadism",
+      "Metaxism",
+      "Orthodox Theocracy",
+      "Reactionary Modernism"
+    ]
+  },
+  "Caesarism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Bonapartism",
+      "Byzantine Model",
+      "Caudillismo",
+      "Christian Theocracy",
+      "European Federalism",
+      "Fascism",
+      "Feudalism",
+      "Fourth Theory",
+      "Tetrarchy"
+    ]
+  },
+  "Cameralism": {
+    "Extremism Rating": 62,
+    "Influences": [
+      "Bismarckism",
+      "Bonapartism",
+      "Hamiltonianism",
+      "Neo-Enlightenment",
+      "Neocameralism",
+      "Neoreactionaryism",
+      "Nordic Model"
+    ]
+  },
+  "Capitalism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Agrarian Capitalism",
+      "Austrian School",
+      "Authoritarian Capitalism",
+      "Capitalist Communism",
+      "Capitalist Transhumanism",
+      "Climate Skepticism",
+      "Conservatism",
+      "Eco-Capitalism",
+      "Fiscal Conservatism",
+      "Jacksonian Democracy",
+      "Korwinism",
+      "Liberalism",
+      "Libertarianism",
+      "Monarcho-Capitalism",
+      "National Capitalism",
+      "Nordic Model",
+      "Objectivism",
+      "Ordo-Liberalism",
+      "Pink Capitalism",
+      "Propertarianism",
+      "Social Capitalism",
+      "Social Liberalism",
+      "Technoliberalism"
+    ]
+  },
+  "Capitalist Communism": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Anti-Fascism",
+      "Chavismo",
+      "Dengism"
+    ]
+  },
+  "Capitalist Transhumanism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Horrivelism",
+      "Landian Accelerationism",
+      "Libertarian Transhumanism"
+    ]
+  },
+  "Carlism": {
+    "Extremism Rating": 87,
+    "Influences": [
+      "Euskadi Carlism",
+      "Francoism"
+    ]
+  },
+  "Caste System": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Athenian Democracy",
+      "Barracks Communism",
+      "Bonapartism",
+      "Esoteric Fascism",
+      "Ethnocracy",
+      "Fordism",
+      "Hindu Theocracy",
+      "Ingsoc",
+      "Kraterocracy",
+      "State Liberalism"
+    ]
+  },
+  "Catholic Theocracy": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Austrofascism",
+      "Bolivarianism",
+      "Bonapartism",
+      "Brazilian Integralism",
+      "Carlism",
+      "Christian Democracy",
+      "Clerical Fascism",
+      "Confederalism",
+      "Corporatism",
+      "Crusadism",
+      "Distributism",
+      "Euskadi Carlism",
+      "Fascism",
+      "Feudalism",
+      "Francoism",
+      "Integralism",
+      "Jacobitism",
+      "Nazism",
+      "Protestant Theocracy",
+      "Reactionary Modernism",
+      "Salazarism",
+      "Utopian Socialism"
+    ]
+  },
+  "Catholic Workerism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Christian Socialism",
+      "Integralism"
+    ]
+  },
+  "Caudillismo": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Bolivarianism",
+      "Brazilian Integralism",
+      "Chavismo",
+      "De Francism",
+      "Francoism",
+      "Guevarism",
+      "Peronism",
+      "Pinochetism",
+      "Salazarism"
+    ]
+  },
+  "Centralism": {
+    "Extremism Rating": 0,
+    "Influences": [
+      "Absolute Monarchism",
+      "Authoritarianism",
+      "Autocracy",
+      "Ba'athism",
+      "Barracks Communism",
+      "Bolivarianism",
+      "Bonapartism",
+      "Cameralism",
+      "Corporatism",
+      "De Francism",
+      "Enlightened Absolutism",
+      "Fascism",
+      "Financialism",
+      "Francoism",
+      "Gaullism",
+      "Hoxhaism",
+      "Ilminism",
+      "Jacobinism",
+      "Juche",
+      "Kemalism",
+      "Khomeinism",
+      "Leninism",
+      "Maoism",
+      "Nazism",
+      "Optimateism",
+      "Pancasila",
+      "Pol Potism",
+      "Regulationism",
+      "Saadehism",
+      "Showa Statism",
+      "State Capitalism",
+      "State Liberalism",
+      "Tridemism",
+      "Zionism",
+      "İttihadism"
+    ]
+  },
+  "Ceremonial Monarchism": {
+    "Extremism Rating": 5,
+    "Influences": [
+      "Conservatism",
+      "Progressivism",
+      "İttihadism"
+    ]
+  },
+  "Chavismo": {
+    "Extremism Rating": 70,
+    "Influences": []
+  },
+  "Chicago School": {
+    "Extremism Rating": 40,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Monetarism",
+      "Neo-Enlightenment",
+      "Neoliberalism",
+      "Pinochetism",
+      "Social Libertarianism"
+    ]
+  },
+  "Chinese Theocracy": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Cameralism",
+      "State Shinto"
+    ]
+  },
+  "Christian Anarchism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Anarcho-Distributism",
+      "Anarcho-Pacifism",
+      "Catholic Workerism",
+      "Total Liberationism"
+    ]
+  },
+  "Christian Democracy": {
+    "Extremism Rating": 28,
+    "Influences": [
+      "Conservatism",
+      "Distributism",
+      "Euskadi Carlism",
+      "Homoconservatism",
+      "Islamic Democracy",
+      "Liberal Conservatism",
+      "Longism",
+      "National Democracy",
+      "Progressive Conservatism",
+      "Theodemocracy"
+    ]
+  },
+  "Christian Socialism": {
+    "Extremism Rating": 38,
+    "Influences": [
+      "Black Nationalism",
+      "Chavismo",
+      "Crusade of Romanianism",
+      "Euskadi Carlism",
+      "Fourth Theory",
+      "Integralism",
+      "Liberal Socialism",
+      "Reactionary Socialism",
+      "Silver Legionism",
+      "Socialism of the 21st Century",
+      "Tridemism"
+    ]
+  },
+  "Christian Theocracy": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Abolitionism",
+      "Byzantine Model",
+      "Caesarism",
+      "Catholic Theocracy",
+      "Christian Anarchism",
+      "Christian Democracy",
+      "Christian Socialism",
+      "Classical Conservatism",
+      "Clerical Fascism",
+      "Crusadism",
+      "Gift Economy",
+      "Islamic Theocracy",
+      "Liberation Theology",
+      "Orthodox Theocracy",
+      "Protestant Theocracy",
+      "Satanic Theocracy",
+      "Scientocracy",
+      "State Oriental Orthodoxy",
+      "Theodemocracy"
+    ]
+  },
+  "Circulus Theory": {
+    "Extremism Rating": 82,
+    "Influences": []
+  },
+  "Civic Nationalism": {
+    "Extremism Rating": 32,
+    "Influences": [
+      "Alt-Lite",
+      "Bull Moose Progressivism",
+      "European Federalism",
+      "Gandhian Socialism",
+      "Gaullism",
+      "Girondism",
+      "Helvetic Model",
+      "Interculturalism",
+      "Jacobinism",
+      "Kemalism",
+      "National Bolshevism",
+      "National Liberalism",
+      "Neoconservatism",
+      "Pancasila",
+      "Titoism",
+      "Tridemism"
+    ]
+  },
+  "Civil Libertarianism": {
+    "Extremism Rating": 32,
+    "Influences": [
+      "Alter-Globalism",
+      "Liberaltarianism",
+      "Market Socialism",
+      "National Liberalism",
+      "Piratism",
+      "Progressivism",
+      "Radical Democracy",
+      "Social Libertarianism",
+      "Tridemism"
+    ]
+  },
+  "Class Dealignment": {
+    "Extremism Rating": 5,
+    "Influences": [
+      "Corporatism",
+      "Khomeinism"
+    ]
+  },
+  "Classical Conservatism": {
+    "Extremism Rating": 79,
+    "Influences": [
+      "Bismarckism",
+      "Black Hundredism",
+      "Carlism",
+      "Conservatism",
+      "Conservative Liberalism",
+      "Distributism",
+      "Fourth Theory",
+      "Francoism",
+      "Hamiltonianism",
+      "Integral Nationalism",
+      "Integralism",
+      "Jacobitism",
+      "Manosphere",
+      "National Conservatism",
+      "National Democracy",
+      "Paleoconservatism",
+      "Paternalistic Conservatism",
+      "Reactionaryism",
+      "Salazarism"
+    ]
+  },
+  "Classical Liberalism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "American Model",
+      "Anarcho-Capitalism",
+      "Anarcho-Egoism",
+      "Austrian School",
+      "Bleeding-Heart Libertarianism",
+      "Bolivarianism",
+      "Bonapartism",
+      "Capitalism",
+      "Chicago School",
+      "Civil Libertarianism",
+      "Conservative Liberalism",
+      "Feuillantism",
+      "Fiscal Conservatism",
+      "Georgism",
+      "Girondism",
+      "Hayekism",
+      "Helvetic Model",
+      "Homoconservatism",
+      "Jacksonian Democracy",
+      "Jacobinism",
+      "Jacobitism",
+      "Jeffersonian Democracy",
+      "Liberal Conservatism",
+      "Liberalism",
+      "Libertarian Conservatism",
+      "Libertarian Feminism",
+      "Libertarianism",
+      "Market Socialism",
+      "Marxism",
+      "Minarchism",
+      "Mutualism",
+      "National Liberalism",
+      "Neo-Enlightenment",
+      "Neo-Marxism",
+      "Neoliberalism",
+      "Objectivism",
+      "Ordo-Liberalism",
+      "Panarchism",
+      "Philosophical Anarchism",
+      "Physiocracy",
+      "Propertarianism",
+      "Radicalism",
+      "Reactionary Liberalism",
+      "Ricardian Socialism",
+      "Silver Legionism",
+      "Social Liberalism",
+      "Steiner-Vallentyne School",
+      "Technoliberalism",
+      "White Nationalism"
+    ]
+  },
+  "Classical Social Democracy": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Bundism",
+      "Council Communism",
+      "Democratic Socialism",
+      "Italian Left Communism",
+      "Leninism",
+      "Liberal Socialism",
+      "Reformist Marxism",
+      "Social Democracy",
+      "Socialism of the 21st Century",
+      "Tridemism",
+      "Trotskyism",
+      "Vperedism"
+    ]
+  },
+  "Clerical Fascism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right",
+      "Austrofascism",
+      "Blueshirtism",
+      "Brazilian Integralism",
+      "British Fascism",
+      "Esoteric Fascism",
+      "Falangism",
+      "Francoism",
+      "French Fascism",
+      "Hindutva",
+      "Hungarism",
+      "Kahanism",
+      "Legionarism",
+      "Manosphere",
+      "Monarcho-Fascism",
+      "Nacionalismo",
+      "National Bolshevism",
+      "National Radicalism",
+      "Nazism",
+      "Positive Christianity",
+      "Revisionist Maximalism",
+      "Salazarism",
+      "Showa Statism",
+      "Silver Legionism",
+      "White Nationalism"
+    ]
+  },
+  "Climate Skepticism": {
+    "Extremism Rating": 87,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Dengism",
+      "Hoppeanism",
+      "Maoism",
+      "Posadism",
+      "Reactionary Liberalism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Combatocracy": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Anarcho-Fascism",
+      "Jihadism",
+      "Kraterocracy"
+    ]
+  },
+  "Communalism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Hive-Mind Collectivism",
+      "Soulism"
+    ]
+  },
+  "Communitarianism": {
+    "Extremism Rating": 32,
+    "Influences": [
+      "Catholic Workerism",
+      "Christian Democracy",
+      "Conservatism",
+      "Corporatism",
+      "Diggerism",
+      "Distributism",
+      "Gift Economy",
+      "Hoppeanism",
+      "Islamic Theocracy",
+      "Localism",
+      "Nationalism",
+      "One-Nation Conservatism",
+      "Paternalism",
+      "Paternalistic Conservatism",
+      "Theodemocracy",
+      "Tridemism",
+      "Utopian Socialism",
+      "Welfarism"
+    ]
+  },
+  "Communization Theory": {
+    "Extremism Rating": 90,
+    "Influences": []
+  },
+  "Confederalism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Alt-Right",
+      "Democratic Confederalism",
+      "Euskadi Carlism",
+      "Jacksonian Democracy",
+      "Jeffersonian Democracy",
+      "Neozapatismo",
+      "Paleoconservatism",
+      "Paleolibertarianism",
+      "Patchwork",
+      "Puzzle Piece Politics",
+      "White Nationalism"
+    ]
+  },
+  "Confessionalism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Christian Democracy",
+      "Islamic Democracy",
+      "Multiculturalism",
+      "Theodemocracy"
+    ]
+  },
+  "Conservatism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Anarcho-Conservatism",
+      "Authoritarian Conservatism",
+      "Christian Democracy",
+      "Conservative Feminism",
+      "Conservative Liberalism",
+      "Conservative Socialism",
+      "Eco-Conservatism",
+      "Feuillantism",
+      "Homoconservatism",
+      "Liberal Conservatism",
+      "Libertarian Conservatism",
+      "National Conservatism",
+      "One-Nation Conservatism",
+      "Paleoconservatism",
+      "Paternalistic Conservatism",
+      "Progressive Conservatism",
+      "Right-Wing Populism",
+      "Rockefeller Republicanism"
+    ]
+  },
+  "Conservative Feminism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "British Fascism",
+      "Gaddafism",
+      "İttihadism"
+    ]
+  },
+  "Conservative Liberalism": {
+    "Extremism Rating": 53,
+    "Influences": [
+      "Alt-Lite",
+      "Anarcho-Conservatism",
+      "Feuillantism",
+      "Girondism",
+      "Hamiltonianism",
+      "Hayekism",
+      "Homoconservatism",
+      "Islamic Democracy",
+      "Jacksonian Democracy",
+      "Liberal Conservatism",
+      "Libertarian Conservatism",
+      "National Conservatism",
+      "National Liberalism",
+      "Neoconservatism",
+      "One-Nation Conservatism",
+      "Ordo-Liberalism",
+      "Pinochetism",
+      "Reactionary Liberalism"
+    ]
+  },
+  "Conservative Socialism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Gaddafism",
+      "Homoconservatism",
+      "Manosphere",
+      "Monarcho-Socialism",
+      "National Bolshevism",
+      "Socialism of the 21st Century",
+      "Yellow Socialism"
+    ]
+  },
+  "Constitutional Monarchism": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Ceremonial Monarchism",
+      "Euskadi Carlism",
+      "Feuillantism",
+      "Girondism",
+      "Hamiltonianism",
+      "Helvetic Model",
+      "Libertarian Monarchism",
+      "Metaxism",
+      "Monarcho-Capitalism",
+      "Monarcho-Socialism",
+      "Nordic Model",
+      "Progressivism",
+      "State Shinto"
+    ]
+  },
+  "Constitutionalism": {
+    "Extremism Rating": 28,
+    "Influences": [
+      "American Model",
+      "Bolivarianism",
+      "Classical Liberalism",
+      "Conservatism",
+      "Constitutional Monarchism",
+      "Feuillantism",
+      "Girondism",
+      "Hamiltonianism",
+      "Jacobinism",
+      "Jeffersonian Democracy",
+      "La Plaineism",
+      "Liberalism",
+      "Libertarianism",
+      "Neo-Enlightenment",
+      "Pancasila",
+      "Parliamentarianism",
+      "Progressivism",
+      "Roman Republicanism",
+      "Theodemocracy",
+      "Titoism",
+      "Tridemism"
+    ]
+  },
+  "Contrarianism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Acid Communism",
+      "Alt-Lite",
+      "Alt-Right",
+      "Anarchism",
+      "Anti-Centrism",
+      "Anti-Realism",
+      "British Fascism",
+      "Climate Skepticism",
+      "Fourth Theory",
+      "Interculturalism",
+      "Korwinism",
+      "Marxism",
+      "Neoreactionaryism",
+      "Populism",
+      "Post-Leftism",
+      "Radicalism",
+      "Reactionaryism",
+      "Taoist Anarchism",
+      "Trotskyism"
+    ]
+  },
+  "Corporatism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "American Model",
+      "Austrofascism",
+      "Bismarckism",
+      "Blueshirtism",
+      "Brazilian Integralism",
+      "British Fascism",
+      "Cameralism",
+      "Clerical Fascism",
+      "Dengism",
+      "Esoteric Fascism",
+      "Fabian Socialism",
+      "Falangism",
+      "Fascism",
+      "Francoism",
+      "French Fascism",
+      "Gaddafism",
+      "Gandhian Socialism",
+      "Guild Socialism",
+      "Hungarism",
+      "Ilminism",
+      "Integral Nationalism",
+      "Integralism",
+      "Kemalism",
+      "Metaxism",
+      "Nacionalismo",
+      "Nazism",
+      "Neosocialism",
+      "Nordic Model",
+      "One-Nation Conservatism",
+      "Pērkonkrusts",
+      "Reactionary Socialism",
+      "Revisionist Zionism",
+      "Saadehism",
+      "Salazarism",
+      "Showa Statism",
+      "Silver Legionism",
+      "Social Authoritarianism",
+      "Social Democracy",
+      "State Capitalism",
+      "Yellow Socialism",
+      "İttihadism"
+    ]
+  },
+  "Corporatocracy": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "American Model",
+      "Banana Republicanism",
+      "Financialism",
+      "Fordism",
+      "Mediacracy",
+      "Neo-Enlightenment",
+      "Neocameralism",
+      "Neoreactionaryism",
+      "Pink Capitalism",
+      "State Liberalism"
+    ]
+  },
+  "Cosmicism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Landian Accelerationism",
+      "Senatorialism"
+    ]
+  },
+  "Cosmopolitanism": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Anationalism",
+      "Austrofascism",
+      "Christian Theocracy",
+      "Fourth Theory",
+      "Globalism",
+      "Interculturalism",
+      "Manosphere",
+      "Universal Monarchism",
+      "World Federalism"
+    ]
+  },
+  "Council Communism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Autonomism",
+      "Communization Theory",
+      "Leninism",
+      "Maoism",
+      "Situationism"
+    ]
+  },
+  "Counter-Enlightenment": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Alt-Right",
+      "Authoritarian Conservatism",
+      "Carlism",
+      "Classical Conservatism",
+      "Clerical Fascism",
+      "Integralism",
+      "Jihadism",
+      "Monarcho-Fascism",
+      "Neoreactionaryism",
+      "Reactionary Liberalism",
+      "Reactionary Modernism",
+      "Reactionary Socialism",
+      "Reactionaryism"
+    ]
+  },
+  "Crusade of Romanianism": {
+    "Extremism Rating": 72,
+    "Influences": []
+  },
+  "Crusadism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Alt-Right",
+      "Clerical Fascism",
+      "Reactionary Modernism",
+      "Reactionary Socialism"
+    ]
+  },
+  "Cultism": {
+    "Extremism Rating": 97,
+    "Influences": [
+      "Anarcho-Naturism",
+      "Anti-Japaneseism",
+      "Black Islamism",
+      "Black Nationalism",
+      "Black Zionism",
+      "Clerical Fascism",
+      "Esoteric Fascism",
+      "Illuminatism",
+      "Juche",
+      "Korwinism",
+      "Pacifist Feminism",
+      "Posadism",
+      "Positive Christianity",
+      "Satanic Theocracy",
+      "Silver Legionism",
+      "White Nationalism"
+    ]
+  },
+  "Cultural Nationalism": {
+    "Extremism Rating": 62,
+    "Influences": [
+      "Alt-Lite",
+      "Austrofascism",
+      "Ba'athism",
+      "British Fascism",
+      "Bundism",
+      "Clerical Fascism",
+      "Francoism",
+      "Frankfurt School",
+      "Hindutva",
+      "Ho Chi Minh Thought",
+      "Ilminism",
+      "Interculturalism",
+      "Kemalism",
+      "Metaxism",
+      "National Communism",
+      "National Conservatism",
+      "National Democracy",
+      "National Liberalism",
+      "Nazism",
+      "Paleoconservatism",
+      "Pan-Nationalism",
+      "Pancasila",
+      "Reactionary Modernism",
+      "Revisionist Zionism",
+      "Right-Wing Populism",
+      "Saadehism",
+      "Volkism",
+      "Welfare Chauvinism",
+      "White Nationalism"
+    ]
+  },
+  "CyberFeminism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Accelerationism",
+      "Acid Communism",
+      "Anarcho-Transhumanism",
+      "LesbiaNRx",
+      "Occult Post-Humanism",
+      "Xenofeminism"
+    ]
+  },
+  "Cybercommunism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Asocialism",
+      "Fully Automated Gay Space Communism"
+    ]
+  },
+  "Cyberocracy": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Cybercommunism",
+      "E-Democracy"
+    ]
+  },
+  "De Francism": {
+    "Extremism Rating": 83,
+    "Influences": []
+  },
+  "De Leonism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Impossibilism",
+      "Revolutionary Progressivism"
+    ]
+  },
+  "Dead Centrism": {
+    "Extremism Rating": 3,
+    "Influences": []
+  },
+  "Death Worship": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Cultism"
+    ]
+  },
+  "Deep Ecology": {
+    "Extremism Rating": 73,
+    "Influences": [
+      "Eco-Fascism",
+      "Total Liberationism"
+    ]
+  },
+  "Demarchy": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Athenian Democracy",
+      "Democracy"
+    ]
+  },
+  "Democracy": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Anti-Authoritarianism",
+      "Christian Democracy",
+      "Classical Social Democracy",
+      "Confessionalism",
+      "Democratic Confederalism",
+      "Democratic Socialism",
+      "E-Democracy",
+      "Elective Monarchism",
+      "Girondism",
+      "Hydrarchy",
+      "Illiberal Democracy",
+      "Islamic Democracy",
+      "Jacobinism",
+      "Kemalism",
+      "Liberal Socialism",
+      "Liberalism",
+      "Libertarian Socialism",
+      "Liquid Democracy",
+      "National Democracy",
+      "One-Nation Conservatism",
+      "Parliamentarianism",
+      "Piratism",
+      "Populareism",
+      "Populism",
+      "Presidentialism",
+      "Radical Democracy",
+      "Reformism",
+      "Tridemism"
+    ]
+  },
+  "Democratic Confederalism": {
+    "Extremism Rating": 82,
+    "Influences": []
+  },
+  "Democratic Socialism": {
+    "Extremism Rating": 38,
+    "Influences": [
+      "Alter-Globalism",
+      "Anti-Fascism",
+      "Austromarxism",
+      "Chavismo",
+      "Democratic Confederalism",
+      "Eurocommunism",
+      "Euskadi Carlism",
+      "Labour Zionism",
+      "Left-Wing Populism",
+      "Monarcho-Socialism",
+      "Progressivism",
+      "Socialism of the 21st Century"
+    ]
+  },
+  "Dengism": {
+    "Extremism Rating": 62,
+    "Influences": [
+      "Landian Accelerationism",
+      "Neocameralism",
+      "Neoreactionaryism"
+    ]
+  },
+  "Diarchy": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Roman Republicanism"
+    ]
+  },
+  "Diggerism": {
+    "Extremism Rating": 62,
+    "Influences": [
+      "Agrarian Anarchism",
+      "Christian Anarchism",
+      "Christian Socialism",
+      "Geoanarchism",
+      "Georgism",
+      "Philosophical Anarchism"
+    ]
+  },
+  "Distributism": {
+    "Extremism Rating": 62,
+    "Influences": [
+      "Anarcho-Distributism",
+      "Austrofascism",
+      "Brazilian Integralism",
+      "Catholic Workerism",
+      "Integralism",
+      "Jeffersonian Democracy",
+      "Mexican Fascism",
+      "Monarcho-Distributism",
+      "National Democracy",
+      "Peronism",
+      "Proutism",
+      "Social Credit"
+    ]
+  },
+  "E-Democracy": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Cybercommunism",
+      "Horrivelism",
+      "Piratism"
+    ]
+  },
+  "Eco-Anarchism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Agrarian Anarchism",
+      "Anarcho-Naturism",
+      "Libertarian Municipalism",
+      "Synthesis Anarchism",
+      "Total Liberationism"
+    ]
+  },
+  "Eco-Authoritarianism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Eco-Fascism"
+    ]
+  },
+  "Eco-Capitalism": {
+    "Extremism Rating": 33,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Eco-Conservatism",
+      "Green Liberalism",
+      "Green Libertarianism",
+      "National Liberalism",
+      "Social Capitalism"
+    ]
+  },
+  "Eco-Conservatism": {
+    "Extremism Rating": 42,
+    "Influences": [
+      "Homoconservatism",
+      "Paternalistic Conservatism",
+      "Progressive Conservatism"
+    ]
+  },
+  "Eco-Fascism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right",
+      "Esoteric Fascism",
+      "Ethnocacerism",
+      "Mexican Fascism",
+      "National Primitivism",
+      "Nazism",
+      "Odalism"
+    ]
+  },
+  "Eco-Nationalism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Bull Moose Progressivism",
+      "Eco-Authoritarianism",
+      "Indigenism",
+      "Kemalism",
+      "National Radicalism",
+      "Peronism"
+    ]
+  },
+  "Eco-Socialism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Alter-Globalism",
+      "Autonomism",
+      "Bioregionalism",
+      "Buddhist Socialism",
+      "Democratic Confederalism",
+      "Eco-Anarchism",
+      "Euskadi Carlism",
+      "Gandhian Socialism",
+      "Green Syndicalism",
+      "Left-Wing Populism",
+      "Libertarian Municipalism",
+      "Participism",
+      "Posadism",
+      "Proutism"
+    ]
+  },
+  "Ecofeminism": {
+    "Extremism Rating": 30,
+    "Influences": []
+  },
+  "Ego-Communism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Post-Anarchism",
+      "Soulism"
+    ]
+  },
+  "Elective Monarchism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Bonapartism",
+      "Catholic Theocracy",
+      "Hamiltonianism"
+    ]
+  },
+  "Enlightened Absolutism": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Bonapartism",
+      "Cameralism",
+      "Physiocracy"
+    ]
+  },
+  "Enlightenment Thought": {
+    "Extremism Rating": 25,
+    "Influences": [
+      "Abolitionism",
+      "Anarcho-Egoism",
+      "Austrian School",
+      "Babouvism",
+      "Bolivarianism",
+      "Capitalism",
+      "Classical Liberalism",
+      "De Francism",
+      "Deep Ecology",
+      "Democracy",
+      "Enlightened Absolutism",
+      "Fascism",
+      "Feminism",
+      "Girondism",
+      "Hamiltonianism",
+      "Illuminatism",
+      "Jacobinism",
+      "Jeffersonian Democracy",
+      "Kemalism",
+      "Liberal Feminism",
+      "Liberalism",
+      "Libertarian Municipalism",
+      "Libertarianism",
+      "Marxism",
+      "Nationalism",
+      "Neo-Enlightenment",
+      "Objectivism",
+      "Physiocracy",
+      "Progressivism",
+      "Republicanism",
+      "Secularism",
+      "Totalitarianism",
+      "Tridemism"
+    ]
+  },
+  "Environmentalism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Eco-Authoritarianism",
+      "Eco-Capitalism",
+      "Eco-Conservatism",
+      "Eco-Nationalism",
+      "Eco-Socialism",
+      "Ecofeminism",
+      "Green Liberalism",
+      "Green Libertarianism",
+      "Localism",
+      "Nazism",
+      "Progressivism",
+      "Radical Environmentalism",
+      "Technogaianism"
+    ]
+  },
+  "Ergatocracy": {
+    "Extremism Rating": 86,
+    "Influences": [
+      "Classical Social Democracy",
+      "Council Communism",
+      "Ethnocacerism",
+      "Leninism",
+      "Marxism",
+      "Marxism–Leninism"
+    ]
+  },
+  "Esoteric Fascism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Alt-Right",
+      "Eco-Fascism",
+      "Esoteric Socialism",
+      "Legionarism",
+      "Odalism",
+      "Silver Legionism"
+    ]
+  },
+  "Esoteric Socialism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Barracks Communism",
+      "Fourth Theory",
+      "Neosocialism",
+      "Peronism",
+      "Silver Legionism"
+    ]
+  },
+  "Ethnocacerism": {
+    "Extremism Rating": 87,
+    "Influences": []
+  },
+  "Ethnocracy": {
+    "Extremism Rating": 91,
+    "Influences": [
+      "Alt-Right",
+      "British Fascism",
+      "Hutu Power",
+      "Kahanism",
+      "Nazism",
+      "Showa Statism",
+      "State Liberalism",
+      "Welfare Chauvinism",
+      "White Nationalism",
+      "Zionism"
+    ]
+  },
+  "Ethnonationalism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Alt-Right",
+      "Arab Socialism",
+      "Ba'athism",
+      "Black Hundredism",
+      "Clerical Fascism",
+      "Esoteric Fascism",
+      "Ethnocacerism",
+      "Ethnocracy",
+      "Ethnopluralism",
+      "French Fascism",
+      "Hoxhaism",
+      "Hungarism",
+      "Hutu Power",
+      "Ilminism",
+      "Indigenism",
+      "Kahanism",
+      "Legionarism",
+      "Manosphere",
+      "National Bolshevism",
+      "National Conservatism",
+      "Nazism",
+      "Pan-Nationalism",
+      "Pol Potism",
+      "Pērkonkrusts",
+      "Reactionary Liberalism",
+      "Right-Wing Populism",
+      "Showa Statism",
+      "Turkish Idealism",
+      "Volkism",
+      "Welfare Chauvinism",
+      "Zionism",
+      "İttihadism"
+    ]
+  },
+  "Ethnopluralism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Alt-Right",
+      "National Anarchism",
+      "Odalism",
+      "Separatism"
+    ]
+  },
+  "Eugenicism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Alt-Right",
+      "Bull Moose Progressivism",
+      "Eco-Fascism",
+      "Ethnocracy",
+      "Fabian Socialism",
+      "Landian Accelerationism",
+      "Manosphere",
+      "Nazi Transhumanism",
+      "Nazism",
+      "State Liberalism",
+      "Transhumanism",
+      "İttihadism"
+    ]
+  },
+  "Eurocommunism": {
+    "Extremism Rating": 52,
+    "Influences": [
+      "European Federalism",
+      "Left-Wing Populism"
+    ]
+  },
+  "European Federalism": {
+    "Extremism Rating": 42,
+    "Influences": [
+      "British Fascism",
+      "Left-Wing Populism"
+    ]
+  },
+  "Euskadi Carlism": {
+    "Extremism Rating": 40,
+    "Influences": []
+  },
+  "Existentialist Anarchism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Acid Communism",
+      "Anarcho-Transhumanism",
+      "Neo-Marxism",
+      "Nomadology",
+      "Post-Anarchism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Fabian Socialism": {
+    "Extremism Rating": 58,
+    "Influences": [
+      "Guild Socialism"
+    ]
+  },
+  "Falangism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Alt-Right",
+      "Christian Democracy",
+      "Francoism",
+      "National Radicalism"
+    ]
+  },
+  "Fascism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Alt-Right",
+      "Anarcho-Fascism",
+      "British Fascism",
+      "Clerical Fascism",
+      "Eco-Fascism",
+      "Esoteric Fascism",
+      "Falangism",
+      "Homofascism",
+      "Ilminism",
+      "Legionarism",
+      "Manosphere",
+      "Monarcho-Fascism",
+      "National Bolshevism",
+      "National Capitalism",
+      "National Feminism",
+      "Nazism",
+      "Neosocialism",
+      "Peronism",
+      "Pērkonkrusts",
+      "Saadehism",
+      "Silver Legionism"
+    ]
+  },
+  "Federalism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "American Model",
+      "Austrofascism",
+      "Bismarckism",
+      "Carlism",
+      "Confederalism",
+      "European Federalism",
+      "Euskadi Carlism",
+      "Girondism",
+      "Hamiltonianism",
+      "Helvetic Model",
+      "Hungarism",
+      "Integral Nationalism",
+      "Jacksonian Democracy",
+      "Leninism",
+      "Localism",
+      "Mao-Spontex",
+      "Mutualism",
+      "Paleoconservatism",
+      "Titoism",
+      "World Federalism"
+    ]
+  },
+  "Feminism": {
+    "Extremism Rating": 25,
+    "Influences": [
+      "Anarcha-Feminism",
+      "Babouvism",
+      "Bull Moose Progressivism",
+      "Conservative Feminism",
+      "CyberFeminism",
+      "Ecofeminism",
+      "Liberal Feminism",
+      "Libertarian Feminism",
+      "Marxist Feminism",
+      "Matriarchal Monarchism",
+      "Men's Liberation",
+      "National Feminism",
+      "Pacifist Feminism",
+      "Postcolonial Feminism",
+      "Radical Feminism",
+      "Religious Feminism",
+      "Saadehism"
+    ]
+  },
+  "Feudalism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Carlism",
+      "Catholic Theocracy",
+      "Caudillismo",
+      "Confederalism",
+      "Counter-Enlightenment",
+      "Crusadism",
+      "Elective Monarchism",
+      "Jacobitism",
+      "Mercantilism",
+      "Nacionalismo",
+      "Neocameralism",
+      "Puzzle Piece Politics",
+      "Reactionary Libertarianism",
+      "Reactionary Socialism",
+      "State Shinto"
+    ]
+  },
+  "Feuillantism": {
+    "Extremism Rating": 38,
+    "Influences": []
+  },
+  "Financialism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Bonapartism",
+      "Hamiltonianism",
+      "Helvetic Model",
+      "Hibernocracy",
+      "Neoliberalism"
+    ]
+  },
+  "Fiscal Conservatism": {
+    "Extremism Rating": 37,
+    "Influences": [
+      "Austrofascism",
+      "Authoritarian Capitalism",
+      "Conservatism",
+      "Conservative Liberalism",
+      "Helvetic Model",
+      "Liberal Conservatism",
+      "Libertarianism",
+      "National Capitalism",
+      "Neoliberalism",
+      "Nordic Model",
+      "Optimateism",
+      "Paleoconservatism",
+      "Reactionary Liberalism",
+      "Right-Wing Populism",
+      "Third Way"
+    ]
+  },
+  "Fordism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "State Liberalism"
+    ]
+  },
+  "Fourth Theory": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Alt-Right",
+      "Conservative Socialism",
+      "Islamic Populism",
+      "Unconditional Accelerationism"
+    ]
+  },
+  "Francoism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right"
+    ]
+  },
+  "Frankfurt School": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Acid Communism",
+      "Democratic Confederalism",
+      "Esoteric Socialism",
+      "Hoppeanism",
+      "Neo-Enlightenment",
+      "Post-Anarchism",
+      "Radical Democracy",
+      "Situationism"
+    ]
+  },
+  "French Fascism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Neosocialism"
+    ]
+  },
+  "Fully Automated Gay Space Communism": {
+    "Extremism Rating": 100,
+    "Influences": []
+  },
+  "Futurism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Fascism",
+      "Insurrectionary Anarchism",
+      "Mariateguism",
+      "Revolutionary Progressivism",
+      "Vperedism"
+    ]
+  },
+  "Gaddafism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Alt-Right",
+      "Black Islamism",
+      "Ethnocacerism"
+    ]
+  },
+  "Gandhian Socialism": {
+    "Extremism Rating": 62,
+    "Influences": [
+      "Anarcho-Pacifism",
+      "Black Nationalism",
+      "Deep Ecology",
+      "Progressivism"
+    ]
+  },
+  "Gaullism": {
+    "Extremism Rating": 32,
+    "Influences": []
+  },
+  "Geoanarchism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Agrarian Anarchism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Geolibertarianism": {
+    "Extremism Rating": 50,
+    "Influences": [
+      "Geoanarchism"
+    ]
+  },
+  "Georgism": {
+    "Extremism Rating": 20,
+    "Influences": [
+      "Bull Moose Progressivism",
+      "Geoanarchism",
+      "Geolibertarianism",
+      "Geosyndicalism",
+      "Left-Wing Market Anarchism",
+      "Neoreactionaryism",
+      "Nordic Model",
+      "Social Georgism",
+      "Social Liberalism",
+      "Social Libertarianism",
+      "Steiner-Vallentyne School",
+      "Tridemism"
+    ]
+  },
+  "Geosyndicalism": {
+    "Extremism Rating": 45,
+    "Influences": []
+  },
+  "Gerontocracy": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Khomeinism",
+      "Necrocracy"
+    ]
+  },
+  "Gift Economy": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Anarcho-Communism"
+    ]
+  },
+  "Girondism": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Bonapartism",
+      "Jeffersonian Democracy",
+      "Progressive Conservatism"
+    ]
+  },
+  "Globalism": {
+    "Extremism Rating": 40,
+    "Influences": [
+      "Anationalism",
+      "Dengism",
+      "Fordism",
+      "Georgism",
+      "Illuminatism",
+      "Interculturalism",
+      "Neo-Enlightenment",
+      "Neoconservatism",
+      "Neoliberalism",
+      "Proutism",
+      "Rockefeller Republicanism",
+      "State Liberalism",
+      "World Federalism"
+    ]
+  },
+  "Green Liberalism": {
+    "Extremism Rating": 28,
+    "Influences": [
+      "Technoliberalism"
+    ]
+  },
+  "Green Libertarianism": {
+    "Extremism Rating": 40,
+    "Influences": []
+  },
+  "Green Syndicalism": {
+    "Extremism Rating": 75,
+    "Influences": []
+  },
+  "Guevarism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Chavismo",
+      "Democratic Confederalism",
+      "Ethnocacerism",
+      "Maoism–Third Worldism",
+      "Neozapatismo",
+      "Posadism",
+      "Revolutionary Progressivism"
+    ]
+  },
+  "Guild Socialism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Distributism",
+      "Participism",
+      "Reactionary Socialism",
+      "Strasserism"
+    ]
+  },
+  "Hamiltonianism": {
+    "Extremism Rating": 57,
+    "Influences": [
+      "American Model",
+      "Paleoconservatism"
+    ]
+  },
+  "Hayekism": {
+    "Extremism Rating": 45,
+    "Influences": [
+      "Korwinism",
+      "Neo-Enlightenment",
+      "Neoliberalism",
+      "Ordo-Liberalism"
+    ]
+  },
+  "Helvetic Model": {
+    "Extremism Rating": 45,
+    "Influences": [
+      "Hoppeanism",
+      "Neo-Enlightenment"
+    ]
+  },
+  "Hibernocracy": {
+    "Extremism Rating": 88,
+    "Influences": []
+  },
+  "Hindu Theocracy": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Buddhist Theocracy",
+      "Clerical Fascism",
+      "Gandhian Socialism",
+      "Hindutva",
+      "Proutism",
+      "Sikh Theocracy"
+    ]
+  },
+  "Hindutva": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Alt-Right",
+      "Esoteric Fascism"
+    ]
+  },
+  "Hive-Mind Collectivism": {
+    "Extremism Rating": 100,
+    "Influences": []
+  },
+  "Ho Chi Minh Thought": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Homoconservatism": {
+    "Extremism Rating": 58,
+    "Influences": [
+      "Alt-Lite",
+      "Hamiltonianism",
+      "Homofascism",
+      "Manosphere",
+      "Neoconservatism",
+      "Neoreactionaryism",
+      "Right-Wing Populism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Homofascism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right",
+      "Blueshirtism",
+      "Manosphere",
+      "Stransserism"
+    ]
+  },
+  "Hoppeanism": {
+    "Extremism Rating": 84,
+    "Influences": [
+      "Anarcho-Fascism",
+      "Anarcho-Monarchism",
+      "Korwinism",
+      "Libertarian Monarchism",
+      "Manosphere",
+      "National Libertarianism",
+      "Neoreactionaryism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Horrivelism": {
+    "Extremism Rating": 88,
+    "Influences": []
+  },
+  "Horseshoe Centrism": {
+    "Extremism Rating": 5,
+    "Influences": [
+      "Anti-Authoritarianism",
+      "Anti-Radicalism",
+      "Ingsoc"
+    ]
+  },
+  "Hoxhaism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Revolutionary Progressivism"
+    ]
+  },
+  "Hungarism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right"
+    ]
+  },
+  "Hutu Power": {
+    "Extremism Rating": 97,
+    "Influences": []
+  },
+  "Hydrarchy": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Kleptocracy",
+      "Piratism"
+    ]
+  },
+  "Illegalism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Anarcho-Totalitarianism",
+      "Insurrectionary Anarchism",
+      "Queer Anarchism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Illiberal Democracy": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Athenian Democracy",
+      "Bismarckism",
+      "Bolivarianism",
+      "British Fascism",
+      "Caudillismo",
+      "Chavismo",
+      "Francoism",
+      "Gaddafism",
+      "Ilminism",
+      "Jacksonian Democracy",
+      "Kemalism",
+      "Khomeinism",
+      "Longism",
+      "Neo-Ottomanism",
+      "Neoconservatism",
+      "Ochlocracy",
+      "Paleoconservatism",
+      "Pancasila",
+      "Peronism",
+      "Social Authoritarianism",
+      "Stratocracy",
+      "Totalitarianism",
+      "Tridemism"
+    ]
+  },
+  "Illuminatism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Esoteric Socialism",
+      "Jacobinism",
+      "Neo-Enlightenment"
+    ]
+  },
+  "Ilminism": {
+    "Extremism Rating": 88,
+    "Influences": []
+  },
+  "Imperialism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Alt-Right",
+      "American Model",
+      "Authoritarian Capitalism",
+      "Banana Republicanism",
+      "Bismarckism",
+      "Black Hundredism",
+      "Bonapartism",
+      "British Fascism",
+      "Bull Moose Progressivism",
+      "Caesarism",
+      "Chinese Theocracy",
+      "Crusadism",
+      "Fabian Socialism",
+      "Fascism",
+      "Fourth Theory",
+      "Francoism",
+      "French Fascism",
+      "Gaullism",
+      "Irredentism",
+      "Jacksonian Democracy",
+      "Jeffersonian Democracy",
+      "Jingoism",
+      "Kahanism",
+      "Mercantilism",
+      "National Capitalism",
+      "Nazism",
+      "Neo-Ottomanism",
+      "Neoconservatism",
+      "Neoreactionaryism",
+      "Pan-Nationalism",
+      "Populareism",
+      "Roman Republicanism",
+      "Salazarism",
+      "Showa Statism",
+      "Zionism"
+    ]
+  },
+  "Impossibilism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Anarcho-Communism",
+      "Autonomism",
+      "Barracks Communism",
+      "Classical Social Democracy",
+      "Communization Theory",
+      "Council Communism",
+      "Democratic Socialism",
+      "Ergatocracy",
+      "Italian Left Communism",
+      "Libertarian Socialism",
+      "Mao-Spontex"
+    ]
+  },
+  "Independence Anarchism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Synthesis Anarchism"
+    ]
+  },
+  "Indigenism": {
+    "Extremism Rating": 73,
+    "Influences": [
+      "Alter-Globalism",
+      "Bolivarianism",
+      "De Francism",
+      "Deep Ecology",
+      "Ethnocacerism",
+      "Ilminism",
+      "Maoism–Third Worldism",
+      "Mariateguism",
+      "Marxism",
+      "Neozapatismo",
+      "Odalism",
+      "Postcolonial Feminism",
+      "Socialism of the 21st Century",
+      "Zionism"
+    ]
+  },
+  "Industrialism": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Benefactorism",
+      "Bismarckism",
+      "Bonapartism",
+      "Bull Moose Progressivism",
+      "Capitalism",
+      "Climate Skepticism",
+      "Council Communism",
+      "Dengism",
+      "Fordism",
+      "French Fascism",
+      "Futurism",
+      "Gaullism",
+      "Hamiltonianism",
+      "Kemalism",
+      "Maoism",
+      "Marxism",
+      "Nazi Transhumanism",
+      "Post-Industrialism",
+      "Protectionism",
+      "Reactionary Modernism",
+      "Saadehism",
+      "Syndicalism",
+      "Titoism",
+      "Trotskyism",
+      "İttihadism"
+    ]
+  },
+  "Ingsoc": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Death Worship",
+      "Hive-Mind Collectivism",
+      "Kraterocracy",
+      "Neo-Bolshevism",
+      "Neoconservatism"
+    ]
+  },
+  "Insurrectionary Anarchism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Black Anarchism",
+      "Communization Theory",
+      "Mao-Spontex",
+      "Post-Leftism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Integral Nationalism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "French Fascism",
+      "Gaullism",
+      "Lys Noir",
+      "Nacionalismo",
+      "National Syndicalism",
+      "Pērkonkrusts",
+      "Yellow Socialism"
+    ]
+  },
+  "Integralism": {
+    "Extremism Rating": 55,
+    "Influences": [
+      "Alt-Right",
+      "Brazilian Integralism",
+      "Byzantine Model",
+      "Carlism",
+      "Clerical Fascism",
+      "Crusadism",
+      "Francoism",
+      "French Fascism",
+      "Integral Nationalism",
+      "Liberation Theology",
+      "Monarcho-Syndicalism",
+      "Nacionalismo",
+      "Reactionary Liberalism",
+      "Salazarism"
+    ]
+  },
+  "Interculturalism": {
+    "Extremism Rating": 33,
+    "Influences": [
+      "American Model",
+      "Civic Nationalism",
+      "De Francism",
+      "Helvetic Model",
+      "Kemalism",
+      "Pancasila",
+      "Tridemism",
+      "Zionism"
+    ]
+  },
+  "Internationalism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Alter-Globalism",
+      "Anarcho-Communism",
+      "Anationalism",
+      "Cosmopolitanism",
+      "Crusadism",
+      "Democratic Confederalism",
+      "Dengism",
+      "Ethnopluralism",
+      "Eurocommunism",
+      "Globalism",
+      "Illuminatism",
+      "Italian Left Communism",
+      "Khomeinism",
+      "Leninism",
+      "Liberalism",
+      "Marxism",
+      "Marxism–Leninism",
+      "Multiculturalism",
+      "Neoconservatism",
+      "Pan-Nationalism",
+      "Pancasila",
+      "Social Democracy",
+      "Social Liberalism",
+      "Titoism",
+      "Trotskyism",
+      "Universal Monarchism"
+    ]
+  },
+  "Irredentism": {
+    "Extremism Rating": 73,
+    "Influences": [
+      "Alt-Right",
+      "Black Hundredism",
+      "Blueshirtism",
+      "Crusadism",
+      "Dengism",
+      "Ethnocacerism",
+      "Falangism",
+      "Fascism",
+      "Hindutva",
+      "Hoxhaism",
+      "Hungarism",
+      "Indigenism",
+      "Islamic Populism",
+      "Legionarism",
+      "Maoism",
+      "Mexican Fascism",
+      "Nacionalismo",
+      "Nazism",
+      "Neo-Ottomanism",
+      "Pancasila",
+      "Revisionist Zionism",
+      "Right-Wing Populism",
+      "Saadehism",
+      "Salazarism",
+      "Titoism",
+      "Welfare Chauvinism",
+      "Zionism"
+    ]
+  },
+  "Islamic Anarchism": {
+    "Extremism Rating": 82,
+    "Influences": []
+  },
+  "Islamic Democracy": {
+    "Extremism Rating": 38,
+    "Influences": [
+      "Neo-Ottomanism",
+      "Pancasila"
+    ]
+  },
+  "Islamic Populism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Gaddafism",
+      "Khomeinism",
+      "Manosphere"
+    ]
+  },
+  "Islamic Socialism": {
+    "Extremism Rating": 67,
+    "Influences": [
+      "Chavismo",
+      "Gaddafism"
+    ]
+  },
+  "Islamic Theocracy": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Black Islamism",
+      "Clerical Fascism",
+      "Islamic Anarchism",
+      "Islamic Democracy",
+      "Islamic Populism",
+      "Islamic Socialism",
+      "Jihadism",
+      "Nazism",
+      "Scientocracy",
+      "Shia Theocracy",
+      "Sikh Theocracy"
+    ]
+  },
+  "Ismism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Puzzle Piece Politics"
+    ]
+  },
+  "Isolationism": {
+    "Extremism Rating": 55,
+    "Influences": [
+      "Alt-Right",
+      "British Fascism",
+      "Chinese Theocracy",
+      "De Francism",
+      "Francoism",
+      "Helvetic Model",
+      "Hoxhaism",
+      "Indigenism",
+      "Juche",
+      "National Conservatism",
+      "Paleoconservatism",
+      "Paleolibertarianism",
+      "Right-Wing Populism",
+      "Salazarism",
+      "Silver Legionism",
+      "State Shinto",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Italian Left Communism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Communization Theory",
+      "Council Communism",
+      "Lys Noir",
+      "Neo-Marxism",
+      "Vperedism"
+    ]
+  },
+  "Jacksonian Democracy": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Theodemocracy"
+    ]
+  },
+  "Jacobinism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Anarchism",
+      "Babouvism",
+      "Barracks Communism",
+      "Blanquism",
+      "Bolivarianism",
+      "Bonapartism",
+      "De Francism",
+      "Fascism",
+      "Girondism",
+      "Jeffersonian Democracy",
+      "Kemalism",
+      "Leninism",
+      "Marxism",
+      "National Liberalism",
+      "Nationalism",
+      "Neosocialism",
+      "Philosophical Anarchism",
+      "Pol Potism",
+      "Progressivism",
+      "Radicalism",
+      "Revolutionary Progressivism",
+      "Socialism",
+      "State Atheism",
+      "Totalitarianism",
+      "Trotskyism"
+    ]
+  },
+  "Jacobitism": {
+    "Extremism Rating": 87,
+    "Influences": [
+      "Neoreactionaryism"
+    ]
+  },
+  "Jeffersonian Democracy": {
+    "Extremism Rating": 32,
+    "Influences": [
+      "American Model",
+      "Anarcho-Individualism",
+      "Conservatism",
+      "Georgism",
+      "Hamiltonianism",
+      "Jacksonian Democracy",
+      "Theodemocracy"
+    ]
+  },
+  "Jewish Anarchism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Existentialist Anarchism"
+    ]
+  },
+  "Jewish Theocracy": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Abolitionism",
+      "Christian Theocracy",
+      "Clerical Fascism",
+      "Islamic Theocracy",
+      "Jewish Anarchism",
+      "Jewish-Nazism",
+      "Religious Zionism",
+      "Revisionist Maximalism",
+      "Zionism"
+    ]
+  },
+  "Jewish-Nazism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Alt-Right",
+      "Kahanism"
+    ]
+  },
+  "Jihadism": {
+    "Extremism Rating": 97,
+    "Influences": [
+      "Alt-Right",
+      "Clerical Fascism"
+    ]
+  },
+  "Jingoism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Ethnonationalism",
+      "Ingsoc",
+      "Irredentism",
+      "Kahanism",
+      "Neo-Ottomanism",
+      "Neoconservatism",
+      "Showa Statism",
+      "Zionism"
+    ]
+  },
+  "Juche": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Alt-Right",
+      "Lys Noir",
+      "Stransserism"
+    ]
+  },
+  "Kahanism": {
+    "Extremism Rating": 90,
+    "Influences": []
+  },
+  "Kakistocracy": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Alt-Right",
+      "Circulus Theory",
+      "Climate Skepticism",
+      "Conservative Socialism",
+      "Cultism",
+      "Homofascism",
+      "Hoxhaism",
+      "Ismism",
+      "Lawsonomy",
+      "Pol Potism"
+    ]
+  },
+  "Kemalism": {
+    "Extremism Rating": 63,
+    "Influences": [
+      "Gandhian Socialism",
+      "Pancasila",
+      "Tridemism"
+    ]
+  },
+  "Keynesian School": {
+    "Extremism Rating": 25,
+    "Influences": [
+      "British Fascism",
+      "Chicago School",
+      "Neoliberalism",
+      "Reformism",
+      "Social Democracy"
+    ]
+  },
+  "Khomeinism": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Khrushchevism": {
+    "Extremism Rating": 72,
+    "Influences": []
+  },
+  "Kleptocracy": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Banana Republicanism",
+      "Hamiltonianism",
+      "Ilminism",
+      "Jacksonian Democracy",
+      "Pinochetism",
+      "Showa Statism"
+    ]
+  },
+  "Korwinism": {
+    "Extremism Rating": 75,
+    "Influences": []
+  },
+  "Kraterocracy": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Hoppeanism",
+      "Neo-Enlightenment",
+      "Neoreactionaryism"
+    ]
+  },
+  "Kritarchy": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Communitarianism",
+      "Constitutionalism",
+      "Jewish Theocracy",
+      "Police Statism"
+    ]
+  },
+  "La Plaineism": {
+    "Extremism Rating": 15,
+    "Influences": [
+      "Big Tent Liberalism",
+      "Bonapartism"
+    ]
+  },
+  "Labour Zionism": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Esoteric Socialism"
+    ]
+  },
+  "Landian Accelerationism": {
+    "Extremism Rating": 98,
+    "Influences": [
+      "LesbiaNRx",
+      "Neoreactionaryism",
+      "Unconditional Accelerationism"
+    ]
+  },
+  "Lawsonomy": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Left-Rothbardianism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Agorism"
+    ]
+  },
+  "Left-Wing Market Anarchism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Agorism",
+      "Geoanarchism",
+      "Left-Rothbardianism"
+    ]
+  },
+  "Left-Wing Nationalism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "African Socialism",
+      "Alter-Globalism",
+      "Arab Socialism",
+      "Austromarxism",
+      "Black Nationalism",
+      "Chavismo",
+      "Conservative Socialism",
+      "De Francism",
+      "Euskadi Carlism",
+      "Futurism",
+      "Gaddafism",
+      "Gandhian Socialism",
+      "Independence Anarchism",
+      "Indigenism",
+      "Islamic Socialism",
+      "Jacobinism",
+      "Labour Zionism",
+      "Left-Wing Populism",
+      "Maoism",
+      "National Communism",
+      "Socialism of the 21st Century",
+      "Tridemism"
+    ]
+  },
+  "Left-Wing Populism": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Alter-Globalism",
+      "Anti-Fascism",
+      "Babouvism",
+      "Chavismo",
+      "De Francism",
+      "Deep Ecology",
+      "Democratic Socialism",
+      "Jacobinism",
+      "Khrushchevism",
+      "Lawsonomy",
+      "Leninism",
+      "Machajskism",
+      "Maoism",
+      "Nomadology",
+      "Platformism",
+      "Progressivism",
+      "Radical Feminism",
+      "Sewer Socialism",
+      "Situationism",
+      "Socialism of the 21st Century"
+    ]
+  },
+  "Legionarism": {
+    "Extremism Rating": 96,
+    "Influences": [
+      "Alt-Right"
+    ]
+  },
+  "Leninism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Benefactorism",
+      "Italian Left Communism",
+      "Maoism",
+      "Marxism–Leninism",
+      "Mladorossism",
+      "National Bolshevism",
+      "Neo-Marxism",
+      "Revolutionary Progressivism",
+      "Tridemism",
+      "Trotskyism"
+    ]
+  },
+  "LesbiaNRx": {
+    "Extremism Rating": 96,
+    "Influences": []
+  },
+  "Liberal Conservatism": {
+    "Extremism Rating": 36,
+    "Influences": [
+      "Alt-Lite",
+      "Big Tent Liberalism",
+      "Christian Democracy",
+      "Fiscal Conservatism",
+      "Gaullism",
+      "Homoconservatism",
+      "National Liberalism",
+      "Neoconservatism",
+      "Pinochetism",
+      "Progressive Conservatism",
+      "Rockefeller Republicanism",
+      "Theodemocracy"
+    ]
+  },
+  "Liberal Feminism": {
+    "Extremism Rating": 25,
+    "Influences": [
+      "State Liberalism"
+    ]
+  },
+  "Liberal Socialism": {
+    "Extremism Rating": 42,
+    "Influences": [
+      "Anti-Fascism",
+      "Democratic Socialism",
+      "Fabian Socialism",
+      "Gandhian Socialism",
+      "Guild Socialism",
+      "Keynesian School",
+      "Left-Wing Populism",
+      "Socialism of the 21st Century",
+      "Tridemism"
+    ]
+  },
+  "Liberalism": {
+    "Extremism Rating": 32,
+    "Influences": [
+      "Alt-Lite",
+      "Big Tent Liberalism",
+      "Christian Democracy",
+      "Civic Nationalism",
+      "Civil Libertarianism",
+      "Green Liberalism",
+      "Islamic Democracy",
+      "Liberal Conservatism",
+      "Liberal Feminism",
+      "Liberal Socialism",
+      "Liberaltarianism",
+      "National Liberalism",
+      "Neoliberalism",
+      "Ordo-Liberalism",
+      "Progressivism",
+      "Reactionary Liberalism",
+      "Social Liberalism",
+      "Technoliberalism",
+      "Third Way",
+      "Transhumanism"
+    ]
+  },
+  "Liberaltarianism": {
+    "Extremism Rating": 32,
+    "Influences": [
+      "National Liberalism",
+      "Neo-Libertarianism"
+    ]
+  },
+  "Liberation Theology": {
+    "Extremism Rating": 62,
+    "Influences": [
+      "Catholic Workerism",
+      "Chavismo",
+      "Christian Socialism",
+      "Islamic Socialism",
+      "Religious Feminism"
+    ]
+  },
+  "Libertarian Conservatism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Alt-Lite",
+      "Authoritarian Conservatism",
+      "National Libertarianism",
+      "Neo-Libertarianism",
+      "Paleoconservatism",
+      "Paleolibertarianism",
+      "Reactionary Libertarianism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Libertarian Feminism": {
+    "Extremism Rating": 40,
+    "Influences": []
+  },
+  "Libertarian Monarchism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Helvetic Model",
+      "Korwinism"
+    ]
+  },
+  "Libertarian Municipalism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Anarcho-Transhumanism",
+      "Democratic Confederalism"
+    ]
+  },
+  "Libertarian Possibilism": {
+    "Extremism Rating": 45,
+    "Influences": []
+  },
+  "Libertarian Socialism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Alter-Globalism",
+      "Anarcho-Communism",
+      "Anarcho-Individualism",
+      "Anarcho-Syndicalism",
+      "Anationalism",
+      "Anti-Fascism",
+      "Autonomism",
+      "Catholic Workerism",
+      "Communization Theory",
+      "Council Communism",
+      "Democratic Confederalism",
+      "Guild Socialism",
+      "Left-Wing Market Anarchism",
+      "Libertarian Municipalism",
+      "Mao-Spontex",
+      "Minarcho-Socialism",
+      "Neozapatismo",
+      "Participism",
+      "Platformism",
+      "Proutism",
+      "Situationism",
+      "Social Anarchism",
+      "Steiner-Vallentyne School",
+      "Syndicalism"
+    ]
+  },
+  "Libertarian Transhumanism": {
+    "Extremism Rating": 62,
+    "Influences": []
+  },
+  "Libertarianism": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Austrian School",
+      "Bleeding-Heart Libertarianism",
+      "Chicago School",
+      "Geolibertarianism",
+      "Green Libertarianism",
+      "Homoconservatism",
+      "Liberaltarianism",
+      "Libertarian Conservatism",
+      "Libertarian Feminism",
+      "Libertarian Monarchism",
+      "Libertarian Transhumanism",
+      "Manosphere",
+      "Minarchism",
+      "National Libertarianism",
+      "Neo-Libertarianism",
+      "Objectivism",
+      "Paleolibertarianism",
+      "Patchwork",
+      "Propertarianism",
+      "Social Libertarianism"
+    ]
+  },
+  "Liquid Democracy": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Piratism"
+    ]
+  },
+  "Localism": {
+    "Extremism Rating": 40,
+    "Influences": [
+      "Distributism",
+      "Helvetic Model",
+      "Libertarian Municipalism",
+      "Patchwork",
+      "Proutism",
+      "Sewer Socialism"
+    ]
+  },
+  "Longism": {
+    "Extremism Rating": 40,
+    "Influences": []
+  },
+  "Luddism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Gandhian Socialism",
+      "Neoluddism",
+      "Post-Leftism"
+    ]
+  },
+  "Lys Noir": {
+    "Extremism Rating": 85,
+    "Influences": []
+  },
+  "Machajskism": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Machiavellianism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Bismarckism",
+      "Bonapartism",
+      "Dengism",
+      "Frankfurt School",
+      "Gaullism",
+      "Illuminatism",
+      "Kleptocracy",
+      "Kraterocracy",
+      "La Plaineism",
+      "Liberal Socialism",
+      "Longism",
+      "Maoism",
+      "Marxism",
+      "Neoconservatism",
+      "One-Nation Conservatism",
+      "Populism",
+      "Progressive Conservatism",
+      "Radical Centrism",
+      "Republicanism",
+      "Social Authoritarianism",
+      "State Capitalism",
+      "Third Way",
+      "Titoism",
+      "Tridemism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Manosphere": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Anarcho-Fascism",
+      "Homofascism",
+      "Islamic Populism",
+      "Korwinism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Mao-Spontex": {
+    "Extremism Rating": 83,
+    "Influences": []
+  },
+  "Maoism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Guevarism",
+      "Hoxhaism",
+      "Mao-Spontex",
+      "Maoism–Third Worldism",
+      "Marxism–Leninism–Maoism",
+      "National Bolshevism",
+      "Neo-Marxism",
+      "Pol Potism",
+      "Revolutionary Progressivism"
+    ]
+  },
+  "Maoism–Third Worldism": {
+    "Extremism Rating": 85,
+    "Influences": []
+  },
+  "Mariateguism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Ethnocacerism",
+      "Guevarism",
+      "Liberation Theology",
+      "Revolutionary Progressivism",
+      "Socialism of the 21st Century"
+    ]
+  },
+  "Market Socialism": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Crusade of Romanianism",
+      "Democratic Socialism",
+      "Dengism",
+      "Distributism",
+      "Euskadi Carlism",
+      "Guild Socialism",
+      "Liberal Socialism",
+      "Sewer Socialism",
+      "Socialism of the 21st Century",
+      "Titoism"
+    ]
+  },
+  "Marxism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Acid Communism",
+      "Anarcho-Collectivism",
+      "Anarcho-Communism",
+      "Autonomism",
+      "Barracks Communism",
+      "Capitalist Communism",
+      "Classical Social Democracy",
+      "Communization Theory",
+      "Council Communism",
+      "CyberFeminism",
+      "Cybercommunism",
+      "De Leonism",
+      "Ergatocracy",
+      "Frankfurt School",
+      "Impossibilism",
+      "Islamic Socialism",
+      "Italian Left Communism",
+      "Left-Wing Nationalism",
+      "Leninism",
+      "Liberation Theology",
+      "Libertarian Municipalism",
+      "Machajskism",
+      "Marxism–Leninism",
+      "Marxist Feminism",
+      "National Bolshevism",
+      "National Communism",
+      "Neo-Marxism",
+      "Nomadology",
+      "Reformist Marxism",
+      "Revolutionary Progressivism",
+      "Situationism",
+      "Socialist Transhumanism",
+      "Trotskyism",
+      "Unconditional Accelerationism",
+      "Vperedism"
+    ]
+  },
+  "Marxism–Leninism": {
+    "Extremism Rating": 89,
+    "Influences": [
+      "Anti-Fascism",
+      "Climate Skepticism",
+      "Democratic Confederalism",
+      "Guevarism",
+      "Ho Chi Minh Thought",
+      "Hoxhaism",
+      "Juche",
+      "Khrushchevism",
+      "Maoism",
+      "Maoism–Third Worldism",
+      "Marxism–Leninism–Maoism",
+      "National Bolshevism",
+      "National Communism",
+      "Neo-Bolshevism",
+      "Pol Potism",
+      "Revolutionary Progressivism",
+      "Titoism"
+    ]
+  },
+  "Marxism–Leninism–Maoism": {
+    "Extremism Rating": 89,
+    "Influences": [
+      "Maoism–Third Worldism"
+    ]
+  },
+  "Marxist Feminism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Council Communism",
+      "CyberFeminism",
+      "Hoxhaism",
+      "Leninism",
+      "Maoism",
+      "Marxism–Leninism",
+      "Revolutionary Progressivism",
+      "Titoism",
+      "Xenofeminism"
+    ]
+  },
+  "Maternalism": {
+    "Extremism Rating": 28,
+    "Influences": [
+      "Alt-Right",
+      "Bull Moose Progressivism",
+      "Conservative Feminism",
+      "Feminism",
+      "Nazism"
+    ]
+  },
+  "Matriarchal Monarchism": {
+    "Extremism Rating": 65,
+    "Influences": []
+  },
+  "Matriarchy": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Feminism",
+      "Maternalism",
+      "Matriarchal Monarchism",
+      "Nordic Model",
+      "Radical Feminism",
+      "State Liberalism"
+    ]
+  },
+  "Mediacracy": {
+    "Extremism Rating": 55,
+    "Influences": [
+      "Dengism",
+      "Pērkonkrusts",
+      "Silver Legionism"
+    ]
+  },
+  "Mediocracy": {
+    "Extremism Rating": 3,
+    "Influences": []
+  },
+  "Men's Liberation": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Homofascism",
+      "Manosphere"
+    ]
+  },
+  "Mercantilism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Bismarckism",
+      "Cameralism",
+      "Capitalism",
+      "Classical Conservatism",
+      "Hamiltonianism",
+      "Protectionism",
+      "Regulationism"
+    ]
+  },
+  "Meritocracy": {
+    "Extremism Rating": 15,
+    "Influences": [
+      "Bonapartism",
+      "Bull Moose Progressivism",
+      "Chinese Theocracy",
+      "Dengism",
+      "Enlightened Absolutism",
+      "Jeffersonian Democracy",
+      "Legionarism",
+      "Neo-Enlightenment",
+      "Noocracy",
+      "Scientocracy",
+      "Technocracy"
+    ]
+  },
+  "Metaxism": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Mexican Fascism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Alt-Right"
+    ]
+  },
+  "Minarchism": {
+    "Extremism Rating": 42,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Hayekism",
+      "Libertarian Conservatism",
+      "Minarcho-Socialism",
+      "National Libertarianism",
+      "Neo-Enlightenment",
+      "Objectivism"
+    ]
+  },
+  "Minarcho-Socialism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Anationalism",
+      "Crusade of Romanianism",
+      "Democratic Confederalism",
+      "Libertarian Municipalism",
+      "Neozapatismo"
+    ]
+  },
+  "Mladorossism": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Moderatism": {
+    "Extremism Rating": 2,
+    "Influences": [
+      "Alt-Lite",
+      "Anti-Radicalism",
+      "Apoliticism",
+      "Blueshirtism",
+      "Dead Centrism",
+      "Eurocommunism",
+      "Feuillantism",
+      "Girondism",
+      "Horseshoe Centrism",
+      "Islamic Democracy",
+      "Khrushchevism",
+      "La Plaineism",
+      "Liberal Conservatism",
+      "Liberalism",
+      "Mediocracy",
+      "Patriotism",
+      "Progressive Conservatism",
+      "Reformism",
+      "Rockefeller Republicanism",
+      "Titoism"
+    ]
+  },
+  "Monarchism": {
+    "Extremism Rating": 60,
+    "Influences": [
+      "Absolute Monarchism",
+      "Anarcho-Monarchism",
+      "Brazilian Integralism",
+      "Classical Conservatism",
+      "Combatocracy",
+      "Confederalism",
+      "Constitutional Monarchism",
+      "Counter-Enlightenment",
+      "Crusadism",
+      "Elective Monarchism",
+      "Feudalism",
+      "Hoppeanism",
+      "Imperialism",
+      "Jacksonian Democracy",
+      "Jacobitism",
+      "Libertarian Monarchism",
+      "Longism",
+      "Matriarchal Monarchism",
+      "Monarcho-Capitalism",
+      "Monarcho-Distributism",
+      "Monarcho-Fascism",
+      "Monarcho-Socialism",
+      "Noocracy",
+      "Populareism",
+      "Reactionary Liberalism",
+      "Reactionaryism",
+      "Roman Republicanism",
+      "Shia Theocracy",
+      "Universal Monarchism"
+    ]
+  },
+  "Monarcho-Capitalism": {
+    "Extremism Rating": 87,
+    "Influences": [
+      "Bismarckism",
+      "Libertarian Monarchism",
+      "Monarcho-Fascism",
+      "Reactionary Liberalism",
+      "Showa Statism"
+    ]
+  },
+  "Monarcho-Distributism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Mexican Fascism"
+    ]
+  },
+  "Monarcho-Fascism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right",
+      "British Fascism",
+      "Clerical Fascism",
+      "Metaxism",
+      "Mexican Fascism",
+      "Mladorossism",
+      "Showa Statism"
+    ]
+  },
+  "Monarcho-Socialism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Euskadi Carlism",
+      "Juche",
+      "Mladorossism",
+      "Monarcho-Fascism",
+      "Monarcho-Syndicalism",
+      "Pancasila",
+      "Showa Statism"
+    ]
+  },
+  "Monarcho-Syndicalism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "British Fascism",
+      "Francoism",
+      "Integral Nationalism"
+    ]
+  },
+  "Monetarism": {
+    "Extremism Rating": 15,
+    "Influences": [
+      "Chicago School",
+      "Neoliberalism",
+      "Nordic Model"
+    ]
+  },
+  "Multiculturalism": {
+    "Extremism Rating": 37,
+    "Influences": [
+      "Anationalism",
+      "Bleeding-Heart Libertarianism",
+      "Bonapartism",
+      "Civic Nationalism",
+      "Democratic Confederalism",
+      "Interculturalism",
+      "Leninism",
+      "Neoliberalism",
+      "Pancasila",
+      "Populareism",
+      "Salazarism",
+      "Titoism"
+    ]
+  },
+  "Mutualism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Anarchism",
+      "Anarcho-Collectivism",
+      "Anarcho-Distributism",
+      "Anarcho-Egoism",
+      "Anarcho-Frontierism",
+      "Anarcho-Individualism",
+      "Anarcho-Syndicalism",
+      "Catholic Workerism",
+      "Integral Nationalism",
+      "Left-Wing Market Anarchism",
+      "Market Socialism",
+      "Marxism",
+      "National Anarchism",
+      "National Syndicalism",
+      "Social Anarchism",
+      "Syndicalism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Nacionalismo": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Peronism"
+    ]
+  },
+  "National Agrarianism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Austrofascism",
+      "Blueshirtism",
+      "French Fascism",
+      "Gandhian Socialism",
+      "Helvetic Model",
+      "Hungarism",
+      "Jacksonian Democracy",
+      "Jeffersonian Democracy",
+      "Metaxism",
+      "National Primitivism",
+      "Neosocialism",
+      "Pol Potism",
+      "Pērkonkrusts",
+      "Salazarism",
+      "Strasserism",
+      "Volkism"
+    ]
+  },
+  "National Anarchism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Anarcho-Fascism",
+      "Lys Noir",
+      "Reactionary Modernism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "National Bolshevism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Alt-Right",
+      "Ba'athism",
+      "Conservative Socialism",
+      "Esoteric Fascism",
+      "Ethnocacerism",
+      "Fourth Theory",
+      "National Communism",
+      "Nazism",
+      "Pol Potism"
+    ]
+  },
+  "National Capitalism": {
+    "Extremism Rating": 73,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Kahanism",
+      "Nazism",
+      "Neoconservatism",
+      "Paleoconservatism",
+      "Pinochetism",
+      "Silver Legionism",
+      "Turkish Idealism"
+    ]
+  },
+  "National Communism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "African Socialism",
+      "Black Nationalism",
+      "Ho Chi Minh Thought",
+      "Hoxhaism",
+      "Juche",
+      "Marxist Feminism",
+      "National Bolshevism",
+      "Pol Potism",
+      "Titoism"
+    ]
+  },
+  "National Conservatism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Alt-Lite",
+      "Austrofascism",
+      "Authoritarian Conservatism",
+      "Bismarckism",
+      "Black Hundredism",
+      "Brazilian Integralism",
+      "British Fascism",
+      "Francoism",
+      "French Fascism",
+      "Gaullism",
+      "Hamiltonianism",
+      "Hindutva",
+      "Homoconservatism",
+      "Ilminism",
+      "Integral Nationalism",
+      "Kahanism",
+      "Khomeinism",
+      "Legionarism",
+      "Monarcho-Fascism",
+      "National Democracy",
+      "National Liberalism",
+      "National Libertarianism",
+      "Neo-Ottomanism",
+      "One-Nation Conservatism",
+      "Paleoconservatism",
+      "Pinochetism",
+      "Right-Wing Populism",
+      "Salazarism",
+      "Welfare Chauvinism",
+      "Yellow Socialism"
+    ]
+  },
+  "National Democracy": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "National Conservatism",
+      "National Radicalism"
+    ]
+  },
+  "National Feminism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "British Fascism",
+      "Nazism",
+      "Peronism"
+    ]
+  },
+  "National Liberalism": {
+    "Extremism Rating": 53,
+    "Influences": [
+      "Alt-Lite",
+      "Bolivarianism",
+      "Conservative Liberalism",
+      "Gaullism",
+      "Girondism",
+      "Homoconservatism",
+      "Jacksonian Democracy",
+      "Jeffersonian Democracy",
+      "Liberal Conservatism",
+      "National Capitalism",
+      "National Conservatism",
+      "National Democracy",
+      "National Libertarianism",
+      "Radicalism",
+      "Reactionary Liberalism",
+      "Right-Wing Populism",
+      "Silver Legionism",
+      "Tridemism"
+    ]
+  },
+  "National Libertarianism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Homoconservatism",
+      "Korwinism",
+      "Liberaltarianism",
+      "National Democracy",
+      "Paleoconservatism",
+      "Right-Wing Populism"
+    ]
+  },
+  "National Primitivism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Esoteric Fascism"
+    ]
+  },
+  "National Radicalism": {
+    "Extremism Rating": 85,
+    "Influences": []
+  },
+  "National Syndicalism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Cosmicism",
+      "Falangism",
+      "Fascism",
+      "Monarcho-Syndicalism",
+      "National Bolshevism",
+      "National Radicalism",
+      "Nazism",
+      "Peronism",
+      "Welfare Chauvinism",
+      "Yellow Socialism"
+    ]
+  },
+  "Nationalism": {
+    "Extremism Rating": 55,
+    "Influences": [
+      "Bonapartism",
+      "Civic Nationalism",
+      "Corporatism",
+      "Crusade of Romanianism",
+      "Cultural Nationalism",
+      "Eco-Nationalism",
+      "Ethnonationalism",
+      "Ethnopluralism",
+      "Falangism",
+      "Homofascism",
+      "Ilminism",
+      "Isolationism",
+      "Jacobinism",
+      "Jingoism",
+      "Left-Wing Nationalism",
+      "Longism",
+      "National Agrarianism",
+      "National Conservatism",
+      "National Liberalism",
+      "National Libertarianism",
+      "Pan-Nationalism",
+      "Patriotism",
+      "Protectionism",
+      "Racial Nationalism",
+      "Religious Nationalism",
+      "Saadehism",
+      "Separatism",
+      "Ultranationalism"
+    ]
+  },
+  "Nazi Transhumanism": {
+    "Extremism Rating": 97,
+    "Influences": []
+  },
+  "Nazism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right",
+      "British Fascism",
+      "Clerical Fascism",
+      "Eco-Fascism",
+      "Esoteric Fascism",
+      "Francoism",
+      "French Fascism",
+      "Hindutva",
+      "Homofascism",
+      "Horrivelism",
+      "Hungarism",
+      "Hutu Power",
+      "Ilminism",
+      "Ingsoc",
+      "Jewish-Nazism",
+      "Jihadism",
+      "Khomeinism",
+      "Legionarism",
+      "Manosphere",
+      "Mexican Fascism",
+      "Monarcho-Fascism",
+      "Nacionalismo",
+      "National Bolshevism",
+      "National Capitalism",
+      "National Feminism",
+      "National Primitivism",
+      "Nazi Transhumanism",
+      "Peronism",
+      "Positive Christianity",
+      "Silver Legionism",
+      "White Nationalism"
+    ]
+  },
+  "Necrocracy": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Juche",
+      "Tridemism"
+    ]
+  },
+  "Neo-Bolshevism": {
+    "Extremism Rating": 100,
+    "Influences": []
+  },
+  "Neo-Enlightenment": {
+    "Extremism Rating": 37,
+    "Influences": []
+  },
+  "Neo-Libertarianism": {
+    "Extremism Rating": 59,
+    "Influences": [
+      "Alt-Lite",
+      "Conservative Liberalism",
+      "Homoconservatism",
+      "Neoconservatism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Neo-Marxism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Acid Communism",
+      "Autonomism",
+      "Ethnopluralism",
+      "Eurocommunism",
+      "Frankfurt School",
+      "Mariateguism",
+      "Post-Anarchism",
+      "Progressivism",
+      "Radical Democracy",
+      "Radical Feminism",
+      "Situationism",
+      "Socialism of the 21st Century"
+    ]
+  },
+  "Neo-Ottomanism": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Neocameralism": {
+    "Extremism Rating": 90,
+    "Influences": [
+      "LesbiaNRx"
+    ]
+  },
+  "Neoconservatism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Alt-Lite",
+      "American Model",
+      "Francoism",
+      "Homoconservatism",
+      "Ilminism",
+      "Neo-Libertarianism",
+      "Neoliberalism",
+      "Nordic Model",
+      "Pinochetism",
+      "Reactionary Liberalism",
+      "Right-Wing Populism",
+      "Rockefeller Republicanism",
+      "Salazarism",
+      "State Liberalism",
+      "Third Way"
+    ]
+  },
+  "Neoliberalism": {
+    "Extremism Rating": 5,
+    "Influences": [
+      "American Model",
+      "Big Tent Liberalism",
+      "Fordism",
+      "Liberal Conservatism",
+      "Liberaltarianism",
+      "Pinochetism",
+      "Social Liberalism",
+      "State Liberalism",
+      "Technoliberalism",
+      "Third Way"
+    ]
+  },
+  "Neoluddism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Lys Noir",
+      "National Primitivism"
+    ]
+  },
+  "Neoreactionaryism": {
+    "Extremism Rating": 94,
+    "Influences": [
+      "Alt-Right",
+      "Anarcho-Monarchism",
+      "Homoconservatism",
+      "Landian Accelerationism",
+      "Manosphere",
+      "Neocameralism"
+    ]
+  },
+  "Neosocialism": {
+    "Extremism Rating": 74,
+    "Influences": []
+  },
+  "Neozapatismo": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Revolutionary Progressivism"
+    ]
+  },
+  "Nomadology": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Accelerationism",
+      "Acid Communism",
+      "Autonomism",
+      "CyberFeminism",
+      "Landian Accelerationism",
+      "LesbiaNRx",
+      "Occult Post-Humanism",
+      "Post-Anarchism",
+      "Post-Leftism",
+      "Soulism",
+      "Unconditional Accelerationism",
+      "Zero Accelerationism"
+    ]
+  },
+  "Noocracy": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Catholic Theocracy",
+      "Chinese Theocracy",
+      "Classical Liberalism",
+      "Cosmicism",
+      "Enlightened Absolutism",
+      "Eugenicism",
+      "Paternalism",
+      "Scientocracy",
+      "Socialism",
+      "Taoist Anarchism",
+      "Technocracy",
+      "Totalitarianism"
+    ]
+  },
+  "Nordic Model": {
+    "Extremism Rating": 25,
+    "Influences": [
+      "Neo-Enlightenment"
+    ]
+  },
+  "Objectivism": {
+    "Extremism Rating": 52,
+    "Influences": [
+      "Alt-Lite",
+      "Manosphere",
+      "Neo-Libertarianism",
+      "Secular Satanism"
+    ]
+  },
+  "Occult Post-Humanism": {
+    "Extremism Rating": 97,
+    "Influences": [
+      "Accelerationism",
+      "Acid Communism",
+      "Landian Accelerationism"
+    ]
+  },
+  "Ochlocracy": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Anarcho-Totalitarianism",
+      "Anti-Fascism",
+      "Jacksonian Democracy",
+      "Jacobinism",
+      "Populareism"
+    ]
+  },
+  "Odalism": {
+    "Extremism Rating": 88,
+    "Influences": []
+  },
+  "Oligarchy": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Anarcho-Totalitarianism",
+      "Aristocracy",
+      "Athenian Democracy",
+      "Banana Republicanism",
+      "Barracks Communism",
+      "Blanquism",
+      "Capitalist Transhumanism",
+      "Caste System",
+      "Cultism",
+      "Dengism",
+      "Diarchy",
+      "Fordism",
+      "Gerontocracy",
+      "Illiberal Democracy",
+      "Illuminatism",
+      "Khrushchevism",
+      "Kleptocracy",
+      "Kritarchy",
+      "Optimateism",
+      "Parliamentarianism",
+      "Particracy",
+      "Plutocracy",
+      "Technocracy",
+      "Tetrarchy",
+      "Timocracy"
+    ]
+  },
+  "One-Nation Conservatism": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Liberal Conservatism"
+    ]
+  },
+  "Optimateism": {
+    "Extremism Rating": 79,
+    "Influences": [
+      "Pinochetism",
+      "Populareism",
+      "Senatorialism"
+    ]
+  },
+  "Ordo-Liberalism": {
+    "Extremism Rating": 28,
+    "Influences": [
+      "Big Tent Liberalism",
+      "Neoliberalism"
+    ]
+  },
+  "Orthodox Theocracy": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Black Hundredism",
+      "Clerical Fascism",
+      "Existentialist Anarchism",
+      "Fourth Theory",
+      "Integralism",
+      "Legionarism",
+      "Metaxism",
+      "Mladorossism",
+      "Saadehism",
+      "State Oriental Orthodoxy"
+    ]
+  },
+  "Pacifist Feminism": {
+    "Extremism Rating": 38,
+    "Influences": []
+  },
+  "Pagan Theocracy": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Alt-Right",
+      "Athenian Democracy",
+      "Caesarism",
+      "Chinese Theocracy",
+      "Cultism",
+      "Demarchy",
+      "Esoteric Fascism",
+      "Esoteric Socialism",
+      "Hindu Theocracy",
+      "Indigenism",
+      "Nazism",
+      "Noocracy",
+      "Odalism",
+      "Pacifist Feminism",
+      "Roman Republicanism",
+      "Satanic Theocracy",
+      "State Shinto",
+      "Taoist Anarchism",
+      "Volkism",
+      "Zoroastrian Theocracy"
+    ]
+  },
+  "Paleoconservatism": {
+    "Extremism Rating": 79,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Manosphere",
+      "Neoconservatism",
+      "Paleolibertarianism",
+      "Reactionary Liberalism",
+      "Right-Wing Populism",
+      "Silver Legionism"
+    ]
+  },
+  "Paleolibertarianism": {
+    "Extremism Rating": 79,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Anarcho-Capitalism",
+      "Hoppeanism",
+      "Korwinism",
+      "National Libertarianism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Pan-Nationalism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "African Socialism",
+      "Arab Socialism",
+      "Ba'athism",
+      "Bioregionalism",
+      "Bismarckism",
+      "Bolivarianism",
+      "Eurocommunism",
+      "Falangism",
+      "Gaddafism",
+      "Internationalism",
+      "Irredentism",
+      "Islamic Socialism",
+      "National Liberalism",
+      "Nazism",
+      "Racial Nationalism",
+      "Right-Wing Populism",
+      "Saadehism",
+      "Showa Statism",
+      "Strasserism",
+      "Titoism",
+      "Tridemism",
+      "Volkism",
+      "World Federalism"
+    ]
+  },
+  "Panarchism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "National Anarchism",
+      "Nomadology",
+      "Puzzle Piece Politics"
+    ]
+  },
+  "Pancasila": {
+    "Extremism Rating": 60,
+    "Influences": []
+  },
+  "Parliamentarianism": {
+    "Extremism Rating": 32,
+    "Influences": [
+      "Classical Liberalism",
+      "Constitutional Monarchism",
+      "Democratic Socialism",
+      "Feuillantism",
+      "Girondism",
+      "Helvetic Model",
+      "Jacobinism",
+      "Nordic Model",
+      "Senatorialism",
+      "Tridemism",
+      "Zionism"
+    ]
+  },
+  "Participism": {
+    "Extremism Rating": 72,
+    "Influences": []
+  },
+  "Particracy": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Austrofascism",
+      "Ba'athism",
+      "Big Tent Liberalism",
+      "Dengism",
+      "Falangism",
+      "Fascism",
+      "Francoism",
+      "Ho Chi Minh Thought",
+      "Ilminism",
+      "Ingsoc",
+      "Kemalism",
+      "La Plaineism",
+      "Leninism",
+      "Nazism",
+      "Showa Statism",
+      "Tridemism"
+    ]
+  },
+  "Patchwork": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Catholic Theocracy",
+      "Libertarian Municipalism",
+      "Neocameralism",
+      "Neoreactionaryism",
+      "Puzzle Piece Politics"
+    ]
+  },
+  "Paternalism": {
+    "Extremism Rating": 46,
+    "Influences": [
+      "Caudillismo",
+      "Christian Democracy",
+      "Fordism",
+      "Islamic Democracy",
+      "Paternalistic Conservatism",
+      "Social Authoritarianism",
+      "State Socialism",
+      "Tridemism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Paternalistic Conservatism": {
+    "Extremism Rating": 40,
+    "Influences": [
+      "Alt-Lite",
+      "Authoritarian Conservatism",
+      "Bismarckism",
+      "Bull Moose Progressivism",
+      "Christian Democracy",
+      "Eco-Conservatism",
+      "Gaullism",
+      "Homoconservatism",
+      "Integral Nationalism",
+      "Integralism",
+      "Longism",
+      "Metaxism",
+      "National Conservatism",
+      "One-Nation Conservatism",
+      "Revisionist Zionism",
+      "Right-Wing Populism",
+      "Rockefeller Republicanism",
+      "Socialism of the 21st Century",
+      "Tridemism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Patriarchy": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Athenian Democracy",
+      "Black Islamism",
+      "Chinese Theocracy",
+      "Hoppeanism",
+      "Islamic Theocracy",
+      "Jihadism",
+      "Manosphere",
+      "Reactionaryism",
+      "Theodemocracy"
+    ]
+  },
+  "Patriotism": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "American Model",
+      "Bolivarianism",
+      "Carlism",
+      "Fourth Theory",
+      "Gaullism",
+      "Ho Chi Minh Thought",
+      "Ingsoc",
+      "Jacobinism",
+      "Left-Wing Nationalism",
+      "Longism",
+      "Neoconservatism",
+      "One-Nation Conservatism",
+      "Pancasila",
+      "Pinochetism",
+      "Yellow Socialism"
+    ]
+  },
+  "Peronism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "British Fascism",
+      "Chavismo"
+    ]
+  },
+  "Philosophical Anarchism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Anarcho-Egoism",
+      "Anarcho-Individualism",
+      "Existentialist Anarchism",
+      "Jeffersonian Democracy",
+      "Odalism",
+      "Synthesis Anarchism",
+      "Utopian Socialism"
+    ]
+  },
+  "Physiocracy": {
+    "Extremism Rating": 22,
+    "Influences": [
+      "Agrarian Capitalism",
+      "Capitalism",
+      "Classical Liberalism",
+      "Georgism",
+      "Jeffersonian Democracy",
+      "Ricardian Socialism"
+    ]
+  },
+  "Pink Capitalism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Bleeding-Heart Libertarianism",
+      "State Liberalism"
+    ]
+  },
+  "Pinochetism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "State Liberalism"
+    ]
+  },
+  "Piratism": {
+    "Extremism Rating": 35,
+    "Influences": []
+  },
+  "Platformism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Insurrectionary Anarchism"
+    ]
+  },
+  "Plutocracy": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Corporatocracy",
+      "Cultism",
+      "Financialism",
+      "Hibernocracy",
+      "Kleptocracy",
+      "Optimateism",
+      "Roman Republicanism",
+      "Timocracy"
+    ]
+  },
+  "Pol Potism": {
+    "Extremism Rating": 98,
+    "Influences": [
+      "Lys Noir"
+    ]
+  },
+  "Police Statism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Austrofascism",
+      "Authoritarian Capitalism",
+      "Authoritarian Conservatism",
+      "Ba'athism",
+      "Benefactorism",
+      "Blueshirtism",
+      "Bonapartism",
+      "Caudillismo",
+      "De Francism",
+      "Dengism",
+      "Fascism",
+      "Francoism",
+      "Gaddafism",
+      "Hoxhaism",
+      "Ilminism",
+      "Ingsoc",
+      "Juche",
+      "Khomeinism",
+      "Khrushchevism",
+      "Kleptocracy",
+      "Leninism",
+      "Maoism",
+      "Metaxism",
+      "Nazism",
+      "Neoconservatism",
+      "Pinochetism",
+      "Salazarism",
+      "Showa Statism",
+      "State Liberalism",
+      "Titoism"
+    ]
+  },
+  "Populareism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Babouvism",
+      "Caesarism",
+      "Populism"
+    ]
+  },
+  "Populism": {
+    "Extremism Rating": 45,
+    "Influences": [
+      "Anti-Centrism",
+      "Anti-Fascism",
+      "Black Nationalism",
+      "Bonapartism",
+      "Caudillismo",
+      "Fascism",
+      "Gandhian Socialism",
+      "Illiberal Democracy",
+      "Ingsoc",
+      "Islamic Populism",
+      "Jacksonian Democracy",
+      "Jeffersonian Democracy",
+      "Kemalism",
+      "Left-Wing Populism",
+      "Longism",
+      "Lys Noir",
+      "National Agrarianism",
+      "Ochlocracy",
+      "Pancasila",
+      "Peronism",
+      "Radicalism",
+      "Right-Wing Populism",
+      "Silver Legionism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Posadism": {
+    "Extremism Rating": 90,
+    "Influences": [
+      "Bio-Posadism",
+      "Fully Automated Gay Space Communism"
+    ]
+  },
+  "Positive Christianity": {
+    "Extremism Rating": 97,
+    "Influences": [
+      "Alt-Right",
+      "Nazism"
+    ]
+  },
+  "Post-Anarchism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Synthesis Anarchism"
+    ]
+  },
+  "Post-Colonial Anarchism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Black Anarchism",
+      "Democratic Confederalism",
+      "Independence Anarchism",
+      "Synthesis Anarchism",
+      "Total Liberationism"
+    ]
+  },
+  "Post-Humanism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Accelerationism",
+      "CyberFeminism",
+      "Cyberocracy",
+      "Landian Accelerationism",
+      "LesbiaNRx",
+      "Occult Post-Humanism"
+    ]
+  },
+  "Post-Industrialism": {
+    "Extremism Rating": 25,
+    "Influences": [
+      "Environmentalism",
+      "Financialism",
+      "Geolibertarianism",
+      "Neoliberalism",
+      "Techno-Anarchism",
+      "Technocracy",
+      "Transhumanism"
+    ]
+  },
+  "Post-Leftism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Anarcho-Nihilism",
+      "Anarcho-Primitivism",
+      "Anarcho-Transhumanism",
+      "Ego-Communism",
+      "Insurrectionary Anarchism",
+      "LesbiaNRx",
+      "Manosphere",
+      "Post-Anarchism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Postcolonial Feminism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Democratic Confederalism",
+      "Neozapatismo"
+    ]
+  },
+  "Postgenderism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Anarcho-Transhumanism",
+      "LesbiaNRx",
+      "Xenofeminism"
+    ]
+  },
+  "Presidentialism": {
+    "Extremism Rating": 25,
+    "Influences": [
+      "American Model",
+      "Ba'athism",
+      "Bolivarianism",
+      "Bull Moose Progressivism",
+      "Gaullism",
+      "Hamiltonianism",
+      "Ilminism",
+      "Jacksonian Democracy",
+      "Jeffersonian Democracy",
+      "Juche",
+      "Kemalism",
+      "Khomeinism",
+      "Korwinism",
+      "Neo-Ottomanism",
+      "Pancasila",
+      "Peronism",
+      "Titoism",
+      "Tridemism"
+    ]
+  },
+  "Primalism": {
+    "Extremism Rating": 100,
+    "Influences": []
+  },
+  "Progressive Conservatism": {
+    "Extremism Rating": 22,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Arab Socialism",
+      "Bonapartism",
+      "Bull Moose Progressivism",
+      "Fascism",
+      "Gandhian Socialism",
+      "Ho Chi Minh Thought",
+      "Homoconservatism",
+      "Indigenism",
+      "Ingsoc",
+      "Khomeinism",
+      "Liberal Conservatism",
+      "One-Nation Conservatism",
+      "Pancasila",
+      "Pol Potism",
+      "Posadism",
+      "Rockefeller Republicanism",
+      "Social Authoritarianism",
+      "Socialism of the 21st Century",
+      "Third Way",
+      "Tridemism",
+      "Vperedism",
+      "İttihadism"
+    ]
+  },
+  "Progressivism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Anti-Fascism",
+      "Big Tent Liberalism",
+      "Bleeding-Heart Libertarianism",
+      "De Francism",
+      "Deep Ecology",
+      "Jacobinism",
+      "Kemalism",
+      "Left-Wing Populism",
+      "Liberation Theology",
+      "Men's Liberation",
+      "Multiculturalism",
+      "Neo-Marxism",
+      "Pink Capitalism",
+      "Progressive Conservatism",
+      "Revolutionary Progressivism",
+      "Satanic Theocracy",
+      "Secular Satanism",
+      "Sewer Socialism"
+    ]
+  },
+  "Propertarianism": {
+    "Extremism Rating": 55,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Corporatocracy",
+      "Eco-Capitalism",
+      "Minarchism"
+    ]
+  },
+  "Protectionism": {
+    "Extremism Rating": 38,
+    "Influences": [
+      "Alt-Right",
+      "Alter-Globalism",
+      "American Model",
+      "Bismarckism",
+      "Black Islamism",
+      "Bonapartism",
+      "British Fascism",
+      "Bull Moose Progressivism",
+      "De Francism",
+      "Fascism",
+      "French Fascism",
+      "Hamiltonianism",
+      "Hoxhaism",
+      "Ilminism",
+      "Ingsoc",
+      "Isolationism",
+      "Jeffersonian Democracy",
+      "Juche",
+      "Keynesian School",
+      "Left-Wing Nationalism",
+      "Left-Wing Populism",
+      "Metaxism",
+      "Nazism",
+      "Paleoconservatism",
+      "Pancasila",
+      "Pol Potism",
+      "Right-Wing Populism",
+      "Salazarism",
+      "Silver Legionism",
+      "Welfare Chauvinism",
+      "Yellow Socialism",
+      "İttihadism"
+    ]
+  },
+  "Protestant Theocracy": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Abolitionism",
+      "Bismarckism",
+      "British Fascism",
+      "Capitalism",
+      "Christian Anarchism",
+      "Clerical Fascism",
+      "Counter-Enlightenment",
+      "Diggerism",
+      "Silver Legionism",
+      "Theodemocracy"
+    ]
+  },
+  "Proutism": {
+    "Extremism Rating": 65,
+    "Influences": []
+  },
+  "Puzzle Piece Politics": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Pērkonkrusts": {
+    "Extremism Rating": 88,
+    "Influences": []
+  },
+  "Queer Anarchism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Revolutionary Progressivism",
+      "Synthesis Anarchism",
+      "Total Liberationism"
+    ]
+  },
+  "Racial Nationalism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Alt-Right",
+      "Black Islamism",
+      "Black Nationalism",
+      "Black Zionism",
+      "Clerical Fascism",
+      "Ethnocracy",
+      "French Fascism",
+      "Indigenism",
+      "Manosphere",
+      "National Bolshevism",
+      "Nazism",
+      "Showa Statism",
+      "Volkism",
+      "White Nationalism"
+    ]
+  },
+  "Radical Apoliticism": {
+    "Extremism Rating": 90,
+    "Influences": [
+      "Situationism"
+    ]
+  },
+  "Radical Centrism": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Peronism",
+      "Technoliberalism"
+    ]
+  },
+  "Radical Democracy": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Neozapatismo"
+    ]
+  },
+  "Radical Environmentalism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Anarcho-Primitivism",
+      "Bioregionalism",
+      "Deep Ecology",
+      "Eco-Authoritarianism",
+      "Eco-Fascism"
+    ]
+  },
+  "Radical Feminism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "CyberFeminism",
+      "LesbiaNRx",
+      "National Feminism",
+      "State Liberalism"
+    ]
+  },
+  "Radicalism": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Babouvism",
+      "Bolivarianism",
+      "Bull Moose Progressivism",
+      "Civil Libertarianism",
+      "De Francism",
+      "Diggerism",
+      "Fabian Socialism",
+      "Feminism",
+      "Jacksonian Democracy",
+      "Jacobinism",
+      "Jacobitism",
+      "Jeffersonian Democracy",
+      "Kemalism",
+      "Liberal Socialism",
+      "Marxism",
+      "Mutualism",
+      "Philosophical Anarchism",
+      "Radical Democracy",
+      "Reformist Marxism",
+      "Social Liberalism",
+      "Tridemism",
+      "Ultranationalism"
+    ]
+  },
+  "Reactionary Liberalism": {
+    "Extremism Rating": 73,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Homoconservatism",
+      "Khomeinism",
+      "Korwinism",
+      "Manosphere",
+      "National Capitalism",
+      "National Libertarianism",
+      "Reactionary Libertarianism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Reactionary Libertarianism": {
+    "Extremism Rating": 75,
+    "Influences": []
+  },
+  "Reactionary Modernism": {
+    "Extremism Rating": 79,
+    "Influences": [
+      "Alt-Right",
+      "Archeofuturism",
+      "British Fascism",
+      "Clerical Fascism",
+      "Esoteric Fascism",
+      "Francoism",
+      "Guild Socialism",
+      "Hindutva",
+      "Integralism",
+      "Kahanism",
+      "Khomeinism",
+      "Nazi Transhumanism",
+      "Nazism",
+      "Neo-Ottomanism",
+      "Reactionary Liberalism",
+      "Salazarism",
+      "Volkism",
+      "Yellow Socialism"
+    ]
+  },
+  "Reactionary Socialism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Crusade of Romanianism",
+      "Ethnocacerism",
+      "Fourth Theory",
+      "Gandhian Socialism",
+      "Lys Noir",
+      "Nazism",
+      "Reactionary Modernism"
+    ]
+  },
+  "Reactionaryism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Alt-Right",
+      "Authoritarian Conservatism",
+      "Black Hundredism",
+      "Carlism",
+      "Clerical Fascism",
+      "Fourth Theory",
+      "Hindutva",
+      "Integral Nationalism",
+      "Integralism",
+      "Jacobitism",
+      "Jihadism",
+      "Kahanism",
+      "Manosphere",
+      "Metaxism",
+      "Nacionalismo",
+      "National Primitivism",
+      "Neo-Ottomanism",
+      "Neoreactionaryism",
+      "Paleoconservatism",
+      "Reactionary Liberalism",
+      "Reactionary Modernism",
+      "Reactionary Socialism",
+      "Showa Statism",
+      "White Nationalism"
+    ]
+  },
+  "Reformism": {
+    "Extremism Rating": 20,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Bismarckism",
+      "Bonapartism",
+      "Bull Moose Progressivism",
+      "Constitutionalism",
+      "Democratic Socialism",
+      "Dengism",
+      "Enlightened Absolutism",
+      "Enlightenment Thought",
+      "Gandhian Socialism",
+      "Girondism",
+      "Islamic Democracy",
+      "Kemalism",
+      "Khrushchevism",
+      "Liberal Socialism",
+      "Libertarian Possibilism",
+      "Progressivism",
+      "Protestant Theocracy",
+      "Radicalism",
+      "Reformist Marxism",
+      "Right-Wing Populism",
+      "Social Democracy"
+    ]
+  },
+  "Reformist Marxism": {
+    "Extremism Rating": 40,
+    "Influences": [
+      "Chavismo",
+      "Democratic Socialism",
+      "Dengism",
+      "Eurocommunism",
+      "Left-Wing Populism",
+      "Liberal Socialism",
+      "Nordic Model",
+      "Social Democracy"
+    ]
+  },
+  "Regulationism": {
+    "Extremism Rating": 15,
+    "Influences": [
+      "Bismarckism",
+      "Corporatism",
+      "Hamiltonianism",
+      "Keynesian School",
+      "Paternalistic Conservatism",
+      "Protectionism",
+      "Social Democracy",
+      "State Capitalism",
+      "Tridemism",
+      "Yellow Socialism",
+      "İttihadism"
+    ]
+  },
+  "Religious Anarchism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Anarcho-Conservatism",
+      "Buddhist Anarchism",
+      "Christian Anarchism",
+      "Islamic Anarchism",
+      "Jewish Anarchism",
+      "Synthesis Anarchism",
+      "Taoist Anarchism"
+    ]
+  },
+  "Religious Feminism": {
+    "Extremism Rating": 30,
+    "Influences": []
+  },
+  "Religious Nationalism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Austrofascism",
+      "Authoritarian Conservatism",
+      "Black Hundredism",
+      "Brazilian Integralism",
+      "Clerical Fascism",
+      "Esoteric Fascism",
+      "Ethnocacerism",
+      "Fascism",
+      "Francoism",
+      "French Fascism",
+      "Hindutva",
+      "Homoconservatism",
+      "Ilminism",
+      "Indigenism",
+      "Islamic Populism",
+      "Khomeinism",
+      "Legionarism",
+      "National Conservatism",
+      "National Democracy",
+      "Nazism",
+      "Paleoconservatism",
+      "Peronism",
+      "Pol Potism",
+      "Religious Zionism",
+      "Right-Wing Populism",
+      "Volkism",
+      "Welfare Chauvinism",
+      "İttihadism"
+    ]
+  },
+  "Religious Rejectionism": {
+    "Extremism Rating": 5,
+    "Influences": []
+  },
+  "Religious Socialism": {
+    "Extremism Rating": 48,
+    "Influences": [
+      "Buddhist Socialism",
+      "Christian Socialism",
+      "Conservative Socialism",
+      "Esoteric Socialism",
+      "Gandhian Socialism",
+      "Islamic Socialism",
+      "Maoism",
+      "Marxism",
+      "Proutism",
+      "Vperedism"
+    ]
+  },
+  "Religious Zionism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Kahanism"
+    ]
+  },
+  "Republicanism": {
+    "Extremism Rating": 28,
+    "Influences": [
+      "American Model",
+      "Arab Socialism",
+      "Ba'athism",
+      "Banana Republicanism",
+      "Bolivarianism",
+      "Confederalism",
+      "De Francism",
+      "Gaullism",
+      "Girondism",
+      "Hamiltonianism",
+      "Hutu Power",
+      "Ilminism",
+      "Ingsoc",
+      "Jacobinism",
+      "Jeffersonian Democracy",
+      "Juche",
+      "Kemalism",
+      "Khomeinism",
+      "La Plaineism",
+      "Left-Wing Populism",
+      "Leninism",
+      "Paleoconservatism",
+      "Pancasila",
+      "Particracy",
+      "Presidentialism",
+      "Progressivism",
+      "Radicalism",
+      "Theodemocracy",
+      "Titoism",
+      "Tridemism"
+    ]
+  },
+  "Revisionist Maximalism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Autocracy",
+      "Federalism",
+      "Revisionist Zionism",
+      "Totalitarianism"
+    ]
+  },
+  "Revisionist Zionism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Revisionist Maximalism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Revolutionary Progressivism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Anti-Fascism",
+      "Council Communism",
+      "De Francism",
+      "Fully Automated Gay Space Communism",
+      "Futurism",
+      "Guevarism",
+      "Hoxhaism",
+      "Jacobinism",
+      "Leninism",
+      "Mariateguism",
+      "Marxism",
+      "Neozapatismo",
+      "Pol Potism",
+      "Posadism",
+      "Postgenderism",
+      "Queer Anarchism",
+      "Socialism of the 21st Century",
+      "State Liberalism"
+    ]
+  },
+  "Ricardian Socialism": {
+    "Extremism Rating": 58,
+    "Influences": [
+      "Georgism",
+      "Liberal Socialism",
+      "Market Socialism",
+      "Marxism",
+      "Mutualism",
+      "Proutism",
+      "Social Credit"
+    ]
+  },
+  "Right-Wing Populism": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Austrofascism",
+      "Authoritarian Conservatism",
+      "British Fascism",
+      "Gaullism",
+      "Homoconservatism",
+      "Ilminism",
+      "Integral Nationalism",
+      "Kahanism",
+      "Korwinism",
+      "National Liberalism",
+      "Neo-Ottomanism",
+      "Neoconservatism",
+      "Paleoconservatism",
+      "Silver Legionism",
+      "Ultranationalism",
+      "Volkism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Rockefeller Republicanism": {
+    "Extremism Rating": 38,
+    "Influences": [
+      "Liberal Conservatism"
+    ]
+  },
+  "Roman Republicanism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "American Model",
+      "Caesarism",
+      "Diarchy",
+      "Elective Monarchism",
+      "European Federalism",
+      "Fabian Socialism",
+      "Fascism",
+      "Optimateism",
+      "Physiocracy",
+      "Populareism",
+      "Republicanism",
+      "Tetrarchy",
+      "Welfarism"
+    ]
+  },
+  "Saadehism": {
+    "Extremism Rating": 75,
+    "Influences": []
+  },
+  "Salazarism": {
+    "Extremism Rating": 78,
+    "Influences": []
+  },
+  "Satanic Theocracy": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Esoteric Fascism",
+      "Esoteric Socialism",
+      "Nazism",
+      "Secular Satanism",
+      "State Shinto"
+    ]
+  },
+  "Satirism": {
+    "Extremism Rating": 20,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Anti-Centrism",
+      "Fully Automated Gay Space Communism",
+      "Hibernocracy",
+      "Ismism",
+      "Jewish-Nazism",
+      "Meritocracy",
+      "Secular Satanism"
+    ]
+  },
+  "Scientocracy": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Cameralism",
+      "Cosmicism",
+      "Enlightened Absolutism",
+      "Enlightenment Thought",
+      "Environmentalism",
+      "Eugenicism",
+      "French Fascism",
+      "Marxism",
+      "Posadism",
+      "Technocracy",
+      "Technoliberalism",
+      "İttihadism"
+    ]
+  },
+  "Secular Satanism": {
+    "Extremism Rating": 90,
+    "Influences": []
+  },
+  "Secularism": {
+    "Extremism Rating": 18,
+    "Influences": [
+      "Alt-Lite",
+      "American Model",
+      "Ba'athism",
+      "Bonapartism",
+      "Bundism",
+      "Christian Democracy",
+      "Cosmicism",
+      "De Francism",
+      "Futurism",
+      "Girondism",
+      "Islamic Democracy",
+      "Jacobinism",
+      "Jeffersonian Democracy",
+      "Kemalism",
+      "Liberalism",
+      "National Liberalism",
+      "Neoreactionaryism",
+      "Objectivism",
+      "Pancasila",
+      "Progressivism",
+      "Saadehism",
+      "Secular Satanism",
+      "State Atheism",
+      "Tridemism",
+      "Zionism",
+      "İttihadism"
+    ]
+  },
+  "Senatorialism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Cosmicism",
+      "Optimateism",
+      "Roman Republicanism"
+    ]
+  },
+  "Separatism": {
+    "Extremism Rating": 55,
+    "Influences": [
+      "Anarcho-Capitalism",
+      "Autarchy",
+      "Bioregionalism",
+      "Black Islamism",
+      "Black Nationalism",
+      "Bolivarianism",
+      "Hindutva",
+      "Hoppeanism",
+      "Independence Anarchism",
+      "Indigenism",
+      "Left-Wing Nationalism",
+      "National Libertarianism",
+      "Pan-Nationalism",
+      "Patchwork",
+      "Post-Colonial Anarchism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Sewer Socialism": {
+    "Extremism Rating": 40,
+    "Influences": [
+      "Democratic Socialism"
+    ]
+  },
+  "Shia Theocracy": {
+    "Extremism Rating": 72,
+    "Influences": [
+      "Khomeinism"
+    ]
+  },
+  "Showa Statism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Alt-Right",
+      "Death Worship",
+      "Ilminism",
+      "Juche",
+      "Manosphere"
+    ]
+  },
+  "Sikh Theocracy": {
+    "Extremism Rating": 75,
+    "Influences": []
+  },
+  "Silver Legionism": {
+    "Extremism Rating": 93,
+    "Influences": [
+      "Alt-Right"
+    ]
+  },
+  "Situationism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Acid Communism",
+      "Autonomism",
+      "Communization Theory",
+      "CyberFeminism",
+      "Ego-Communism",
+      "Lys Noir",
+      "Post-Leftism"
+    ]
+  },
+  "Social Anarchism": {
+    "Extremism Rating": 80,
+    "Influences": [
+      "Anarcho-Collectivism",
+      "Anarcho-Communism",
+      "Anarcho-Syndicalism",
+      "Buddhist Anarchism",
+      "Libertarian Municipalism",
+      "Platformism",
+      "Post-Leftism",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Social Authoritarianism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Arab Socialism",
+      "Ba'athism",
+      "Bismarckism",
+      "Black Islamism",
+      "Chavismo",
+      "De Francism",
+      "Eco-Authoritarianism",
+      "Fabian Socialism",
+      "Gaddafism",
+      "Gaullism",
+      "Kemalism",
+      "Lawsonomy",
+      "Longism",
+      "Monarcho-Socialism",
+      "Peronism",
+      "Titoism",
+      "Tridemism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Social Capitalism": {
+    "Extremism Rating": 20,
+    "Influences": [
+      "Christian Democracy",
+      "Horrivelism",
+      "Nordic Model",
+      "One-Nation Conservatism",
+      "Ordo-Liberalism",
+      "Paternalistic Conservatism",
+      "Peronism",
+      "Revisionist Zionism",
+      "Rockefeller Republicanism",
+      "Saadehism",
+      "Social Libertarianism",
+      "Third Way",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Social Credit": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Keynesian School"
+    ]
+  },
+  "Social Darwinism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Alt-Right",
+      "Avaritionism",
+      "Combatocracy",
+      "Eco-Fascism",
+      "Fabian Socialism",
+      "French Fascism",
+      "Kraterocracy",
+      "Manosphere",
+      "Nazism",
+      "Neoreactionaryism",
+      "Positive Christianity",
+      "White Nationalism",
+      "İttihadism"
+    ]
+  },
+  "Social Democracy": {
+    "Extremism Rating": 30,
+    "Influences": [
+      "Big Tent Liberalism",
+      "Conservative Socialism",
+      "Eurocommunism",
+      "Labour Zionism",
+      "Left-Wing Nationalism",
+      "Left-Wing Populism",
+      "Liberal Socialism",
+      "Monarcho-Socialism",
+      "National Liberalism",
+      "Nordic Model",
+      "Progressivism",
+      "Social Authoritarianism",
+      "Social Georgism",
+      "Socialism of the 21st Century",
+      "Third Way",
+      "Welfare Chauvinism"
+    ]
+  },
+  "Social Georgism": {
+    "Extremism Rating": 28,
+    "Influences": [
+      "Fabian Socialism",
+      "Geosyndicalism",
+      "Nordic Model",
+      "Steiner-Vallentyne School",
+      "Tridemism"
+    ]
+  },
+  "Social Liberalism": {
+    "Extremism Rating": 22,
+    "Influences": [
+      "Big Tent Liberalism",
+      "Keynesian School",
+      "Liberal Socialism",
+      "Liberaltarianism",
+      "National Liberalism",
+      "Nordic Model",
+      "Progressivism",
+      "Social Capitalism",
+      "Social Georgism",
+      "Social Libertarianism",
+      "Technoliberalism",
+      "Third Way"
+    ]
+  },
+  "Social Libertarianism": {
+    "Extremism Rating": 28,
+    "Influences": [
+      "Helvetic Model",
+      "Liberaltarianism",
+      "National Liberalism",
+      "Neo-Enlightenment",
+      "Steiner-Vallentyne School"
+    ]
+  },
+  "Socialism": {
+    "Extremism Rating": 58,
+    "Influences": [
+      "Agrarian Socialism",
+      "Alter-Globalism",
+      "Classical Social Democracy",
+      "Conservative Socialism",
+      "Council Communism",
+      "Cybercommunism",
+      "Democratic Socialism",
+      "Eco-Socialism",
+      "Esoteric Socialism",
+      "Euskadi Carlism",
+      "Labour Zionism",
+      "Left-Wing Nationalism",
+      "Left-Wing Populism",
+      "Liberal Socialism",
+      "Libertarian Socialism",
+      "Market Socialism",
+      "Marxism",
+      "Marxist Feminism",
+      "Monarcho-Socialism",
+      "Reformist Marxism",
+      "Religious Socialism",
+      "Sewer Socialism",
+      "Socialist Transhumanism",
+      "State Socialism",
+      "Vperedism"
+    ]
+  },
+  "Socialism of the 21st Century": {
+    "Extremism Rating": 45,
+    "Influences": [
+      "Chavismo",
+      "Ethnocacerism"
+    ]
+  },
+  "Socialist Transhumanism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Fully Automated Gay Space Communism",
+      "Posadism"
+    ]
+  },
+  "Soulism": {
+    "Extremism Rating": 100,
+    "Influences": [
+      "Synthesis Anarchism"
+    ]
+  },
+  "State Atheism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Blanquism",
+      "Hoxhaism",
+      "Juche",
+      "Khrushchevism",
+      "Leninism",
+      "Maoism",
+      "Marxism–Leninism",
+      "Pol Potism",
+      "Secular Satanism",
+      "State Liberalism"
+    ]
+  },
+  "State Capitalism": {
+    "Extremism Rating": 62,
+    "Influences": [
+      "Ba'athism",
+      "Banana Republicanism",
+      "Black Islamism",
+      "Bonapartism",
+      "Corporatocracy",
+      "De Francism",
+      "Dengism",
+      "Francoism",
+      "Gaullism",
+      "Horrivelism",
+      "Ingsoc",
+      "Kemalism",
+      "Nordic Model",
+      "Saadehism",
+      "Showa Statism",
+      "Silver Legionism",
+      "İttihadism"
+    ]
+  },
+  "State Liberalism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Neo-Enlightenment"
+    ]
+  },
+  "State Oriental Orthodoxy": {
+    "Extremism Rating": 79,
+    "Influences": []
+  },
+  "State Shinto": {
+    "Extremism Rating": 90,
+    "Influences": [
+      "Showa Statism"
+    ]
+  },
+  "State Socialism": {
+    "Extremism Rating": 76,
+    "Influences": [
+      "Arab Socialism",
+      "Barracks Communism",
+      "Blanquism",
+      "De Francism",
+      "Ingsoc",
+      "Juche",
+      "Khrushchevism",
+      "Leninism",
+      "Marxism–Leninism",
+      "Neosocialism",
+      "Socialism of the 21st Century",
+      "Strasserism",
+      "Titoism",
+      "Trotskyism"
+    ]
+  },
+  "Steiner-Vallentyne School": {
+    "Extremism Rating": 32,
+    "Influences": []
+  },
+  "Stransserism": {
+    "Extremism Rating": 88,
+    "Influences": []
+  },
+  "Strasserism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Alt-Right",
+      "British Fascism",
+      "Crusade of Romanianism",
+      "National Bolshevism",
+      "Nazism",
+      "Stransserism"
+    ]
+  },
+  "Stratocracy": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Arab Socialism",
+      "Ba'athism",
+      "Banana Republicanism",
+      "Bismarckism",
+      "Bonapartism",
+      "British Fascism",
+      "Caesarism",
+      "Caudillismo",
+      "Combatocracy",
+      "Crusadism",
+      "Elective Monarchism",
+      "Ethnocacerism",
+      "Francoism",
+      "Futurism",
+      "Gaullism",
+      "Ho Chi Minh Thought",
+      "Hoxhaism",
+      "Illiberal Democracy",
+      "Imperialism",
+      "Jacobinism",
+      "Jihadism",
+      "Jingoism",
+      "Juche",
+      "Khrushchevism",
+      "Leninism",
+      "Metaxism",
+      "Nacionalismo",
+      "National Capitalism",
+      "Pinochetism",
+      "Police Statism",
+      "Trotskyism",
+      "İttihadism"
+    ]
+  },
+  "Syndicalism": {
+    "Extremism Rating": 70,
+    "Influences": [
+      "Anarcho-Syndicalism",
+      "Catholic Workerism",
+      "Corporatism",
+      "Fascism",
+      "Futurism",
+      "Geosyndicalism",
+      "Green Syndicalism",
+      "Left-Wing Populism",
+      "Libertarian Socialism",
+      "Luddism",
+      "Maoism",
+      "Mariateguism",
+      "National Syndicalism",
+      "Peronism",
+      "Social Democracy"
+    ]
+  },
+  "Synthesis Anarchism": {
+    "Extremism Rating": 80,
+    "Influences": []
+  },
+  "Taoist Anarchism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Anarcho-Egoism",
+      "Ego-Communism",
+      "Post-Anarchism"
+    ]
+  },
+  "Techno-Anarchism": {
+    "Extremism Rating": 82,
+    "Influences": [
+      "Anarcho-Transhumanism",
+      "LesbiaNRx",
+      "Synthesis Anarchism"
+    ]
+  },
+  "Technocracy": {
+    "Extremism Rating": 20,
+    "Influences": [
+      "Benefactorism",
+      "Combatocracy",
+      "Corporatism",
+      "Cyberocracy",
+      "Dengism",
+      "Eco-Authoritarianism",
+      "Fabian Socialism",
+      "Francoism",
+      "Illiberal Democracy",
+      "Neosocialism",
+      "Technoliberalism"
+    ]
+  },
+  "Technogaianism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Archeofuturism",
+      "Libertarian Transhumanism",
+      "Marxism",
+      "Pol Potism",
+      "Technoliberalism"
+    ]
+  },
+  "Technoliberalism": {
+    "Extremism Rating": 35,
+    "Influences": [
+      "Big Tent Liberalism",
+      "Keynesian School",
+      "Neo-Enlightenment",
+      "Piratism"
+    ]
+  },
+  "Tetrarchy": {
+    "Extremism Rating": 75,
+    "Influences": []
+  },
+  "Theodemocracy": {
+    "Extremism Rating": 72,
+    "Influences": []
+  },
+  "Third Way": {
+    "Extremism Rating": 5,
+    "Influences": [
+      "Gaullism",
+      "Nordic Model",
+      "Social Democracy"
+    ]
+  },
+  "Timocracy": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Athenian Democracy",
+      "Classical Conservatism",
+      "Dengism",
+      "Feudalism",
+      "Georgism",
+      "Hamiltonianism",
+      "Propertarianism",
+      "Reactionary Liberalism"
+    ]
+  },
+  "Titoism": {
+    "Extremism Rating": 75,
+    "Influences": [
+      "Euskadi Carlism",
+      "Gaddafism"
+    ]
+  },
+  "Total Liberationism": {
+    "Extremism Rating": 83,
+    "Influences": [
+      "Synthesis Anarchism"
+    ]
+  },
+  "Totalitarianism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "Alt-Right",
+      "Anarcho-Totalitarianism",
+      "Authoritarian Conservatism",
+      "Ba'athism",
+      "Barracks Communism",
+      "Benefactorism",
+      "Clerical Fascism",
+      "Esoteric Fascism",
+      "Falangism",
+      "Fascism",
+      "Fordism",
+      "Francoism",
+      "Hoxhaism",
+      "Ingsoc",
+      "Jihadism",
+      "Juche",
+      "Maoism",
+      "Metaxism",
+      "Nazism",
+      "Neosocialism",
+      "Pol Potism",
+      "Showa Statism",
+      "State Liberalism"
+    ]
+  },
+  "Traditionalism": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Alt-Lite",
+      "Anarcho-Conservatism",
+      "Byzantine Model",
+      "Carlism",
+      "Classical Conservatism",
+      "Clerical Fascism",
+      "Counter-Enlightenment",
+      "Cultural Nationalism",
+      "Esoteric Fascism",
+      "Falangism",
+      "Fourth Theory",
+      "Francoism",
+      "Ilminism",
+      "Integral Nationalism",
+      "Integralism",
+      "Khomeinism",
+      "Legionarism",
+      "Nacionalismo",
+      "National Anarchism",
+      "Optimateism",
+      "Reactionary Liberalism",
+      "Reactionaryism",
+      "Salazarism"
+    ]
+  },
+  "Transhumanism": {
+    "Extremism Rating": 50,
+    "Influences": [
+      "Anarcho-Frontierism",
+      "Anarcho-Transhumanism",
+      "Archeofuturism",
+      "Capitalist Transhumanism",
+      "Libertarian Transhumanism",
+      "Nazi Transhumanism",
+      "Post-Humanism",
+      "Postgenderism",
+      "Socialist Transhumanism",
+      "Technogaianism"
+    ]
+  },
+  "Tribalism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Agrarianism",
+      "Anarcho-Frontierism",
+      "Anarcho-Primitivism",
+      "Authoritarianism",
+      "Indigenism",
+      "Jingoism",
+      "Matriarchy",
+      "Monarchism",
+      "National Primitivism",
+      "Nationalism",
+      "Odalism",
+      "Pagan Theocracy",
+      "Patriarchy"
+    ]
+  },
+  "Tridemism": {
+    "Extremism Rating": 73,
+    "Influences": [
+      "Ho Chi Minh Thought",
+      "Ilminism",
+      "Maoism",
+      "Pancasila"
+    ]
+  },
+  "Trotskyism": {
+    "Extremism Rating": 60,
+    "Influences": [
+      "Chavismo",
+      "Italian Left Communism",
+      "Neoconservatism",
+      "Neosocialism",
+      "Nomadology",
+      "Posadism",
+      "Revolutionary Progressivism",
+      "Sewer Socialism"
+    ]
+  },
+  "Turkish Idealism": {
+    "Extremism Rating": 88,
+    "Influences": []
+  },
+  "Ultranationalism": {
+    "Extremism Rating": 85,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Black Hundredism",
+      "Blueshirtism",
+      "Brazilian Integralism",
+      "Clerical Fascism",
+      "Esoteric Fascism",
+      "Ethnocacerism",
+      "Ethnocracy",
+      "Falangism",
+      "Fascism",
+      "Francoism",
+      "French Fascism",
+      "Hindutva",
+      "Homofascism",
+      "Hungarism",
+      "Hutu Power",
+      "Ilminism",
+      "Jingoism",
+      "Juche",
+      "Kahanism",
+      "Legionarism",
+      "Manosphere",
+      "National Bolshevism",
+      "National Capitalism",
+      "National Democracy",
+      "National Liberalism",
+      "National Radicalism",
+      "Nazi Transhumanism",
+      "Nazism",
+      "Pan-Nationalism",
+      "Pinochetism",
+      "Pol Potism",
+      "Pērkonkrusts",
+      "Reactionary Liberalism",
+      "Revisionist Maximalism",
+      "Right-Wing Populism",
+      "Showa Statism",
+      "Strasserism",
+      "Volkism",
+      "Welfare Chauvinism",
+      "İttihadism"
+    ]
+  },
+  "Unconditional Accelerationism": {
+    "Extremism Rating": 96,
+    "Influences": [
+      "LesbiaNRx"
+    ]
+  },
+  "Universal Monarchism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Byzantine Model"
+    ]
+  },
+  "Utopian Socialism": {
+    "Extremism Rating": 68,
+    "Influences": [
+      "Anarcho-Egoism",
+      "Anarcho-Individualism",
+      "Babouvism",
+      "Blanquism",
+      "Christian Socialism",
+      "Circulus Theory",
+      "Communalism",
+      "De Francism",
+      "Diggerism",
+      "Feminism",
+      "Fourth Theory",
+      "Futurism",
+      "Gaddafism",
+      "Gandhian Socialism",
+      "Gift Economy",
+      "Islamic Socialism",
+      "Leninism",
+      "Liberal Socialism",
+      "Libertarian Socialism",
+      "Manosphere",
+      "Marxism",
+      "Mutualism",
+      "Reactionary Socialism",
+      "Ricardian Socialism",
+      "Silver Legionism",
+      "Socialism",
+      "Syndicalism",
+      "Technocracy",
+      "Yellow Socialism",
+      "İttihadism"
+    ]
+  },
+  "Volkism": {
+    "Extremism Rating": 90,
+    "Influences": [
+      "Esoteric Fascism",
+      "Hindutva",
+      "National Bolshevism",
+      "National Primitivism",
+      "Nazism",
+      "Odalism",
+      "Positive Christianity",
+      "Reactionary Modernism",
+      "Strasserism"
+    ]
+  },
+  "Vperedism": {
+    "Extremism Rating": 88,
+    "Influences": [
+      "Futurism"
+    ]
+  },
+  "Welfare Chauvinism": {
+    "Extremism Rating": 84,
+    "Influences": [
+      "Alt-Lite",
+      "Alt-Right",
+      "Black Islamism",
+      "British Fascism",
+      "Manosphere",
+      "Metaxism",
+      "National Conservatism",
+      "Peronism",
+      "Revisionist Zionism",
+      "Right-Wing Populism",
+      "Saadehism"
+    ]
+  },
+  "Welfarism": {
+    "Extremism Rating": 40,
+    "Influences": [
+      "Bull Moose Progressivism",
+      "Christian Democracy",
+      "Hayekism",
+      "Islamic Populism",
+      "Keynesian School",
+      "Left-Wing Populism",
+      "One-Nation Conservatism",
+      "Pancasila",
+      "Paternalism",
+      "Paternalistic Conservatism",
+      "Populareism",
+      "Radicalism",
+      "Rockefeller Republicanism",
+      "Social Authoritarianism",
+      "Social Capitalism",
+      "Social Democracy",
+      "Social Georgism",
+      "Social Liberalism",
+      "Social Libertarianism",
+      "Tridemism",
+      "Welfare Chauvinism"
+    ]
+  },
+  "White Nationalism": {
+    "Extremism Rating": 95,
+    "Influences": [
+      "Alt-Right",
+      "American Model",
+      "Feminism",
+      "Jacksonian Democracy",
+      "Jewish-Nazism",
+      "Manosphere",
+      "Odalism",
+      "Paleoconservatism",
+      "Salazarism",
+      "Silver Legionism",
+      "Theodemocracy"
+    ]
+  },
+  "World Federalism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Bull Moose Progressivism",
+      "Gandhian Socialism",
+      "Proutism",
+      "State Liberalism",
+      "Trotskyism",
+      "Universal Monarchism"
+    ]
+  },
+  "Xenofeminism": {
+    "Extremism Rating": 92,
+    "Influences": [
+      "LesbiaNRx"
+    ]
+  },
+  "Yellow Socialism": {
+    "Extremism Rating": 65,
+    "Influences": [
+      "Integral Nationalism",
+      "Nazism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Zero Accelerationism": {
+    "Extremism Rating": 92,
+    "Influences": []
+  },
+  "Zionism": {
+    "Extremism Rating": 73,
+    "Influences": [
+      "Alt-Lite",
+      "Black Zionism",
+      "Hungarism",
+      "Kahanism",
+      "Labour Zionism",
+      "Neoconservatism",
+      "Pinochetism",
+      "Religious Zionism",
+      "Revisionist Maximalism",
+      "Revisionist Zionism",
+      "Right-Wing Populism"
+    ]
+  },
+  "Zoroastrian Theocracy": {
+    "Extremism Rating": 78,
+    "Influences": [
+      "Buddhist Theocracy",
+      "Christian Theocracy",
+      "Esoteric Fascism",
+      "Islamic Theocracy",
+      "Jewish Theocracy",
+      "Satanic Theocracy"
+    ]
+  },
+  "İttihadism": {
+    "Extremism Rating": 90,
+    "Influences": [
+      "Kemalism",
+      "Nazism",
+      "Turkish Idealism",
+      "Volkism"
+    ]
+  }
+}
