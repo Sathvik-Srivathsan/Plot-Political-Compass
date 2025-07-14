@@ -1,76 +1,64 @@
 # Plot-Political-Compass
 
-This repository contains Python scripts for scraping political ideology data, assigning extremism ratings and compass coordinates using the Gemini API, fine-tuning a DistilBERT model, and visualizing user input on a political compass.
+This repository contains Python programs for building a political compass prediction system. It covers data acquisition, AI-assisted data labeling, deep learning model fine-tuning, and user input visualization.
 
 ### Repository Structure and File Descriptions
 
-  * **`data.py`**: Scrapes political ideology data from `polcompball.wikitide.org`. Extracts article body text and infobox details for each ideology.
+* **`data.py`**:
+    * **purpose**: Acquires raw political ideology data.
+    * **method**: Web scrapes `polcompball.wikitide.org`. Extracts ideology names, main article text, and key infobox details (e.g., influences).
+    * **output**: `political_ideologies_structured_data.jsonl` (raw text content).
 
-      * **Output**: `political_ideologies_structured_data.jsonl` (raw scraped data).
+* **`ratings.py`**:
+    * **purpose**: Quantifies ideology extremism.
+    * **method**: Uses gemini api to assign an "extremism rating" (0-100%) to each ideology. An "extremism rating" is a scalar value indicating an ideology's deviation from centrism. It leverages predefined ratings and contextual information from related ideologies in an influence graph (`ideology_influence_graph.json`) for context (RAG). Prioritizes rating ideologies with more already-rated neighbors, simulating human expert reasoning through graph-based active learning.
+    * **input**: `political_ideologies_structured_data.jsonl`, `ideology_influence_graph.json`.
+    * **output**: `tierlistgraph.json` (ideologies with extremism ratings), `tier1_ideologies.json`, `tier2_ideologies.json`, `tier3_ideologies.json`, `tier4_ideologies.json` (ideologies categorized by extremism tiers).
 
-  * **`rating.py`**: Assigns an "extremism rating" (0-100%) to each ideology. Uses the Gemini API for rating, leveraging predefined ratings and contextual information from related ideologies in a graph structure.
+* **`coordinates.py`**:
+    * **purpose**: Assigns precise political compass (x, y) coordinates.
+    * **method**: Employs gemini api for coordinate assignment. Uses RAG, providing the llm with the ideology's description, alignment, extremism rating, and coordinates of nearby (by extremism rating) related ideologies. RAG grounds the llm's output in existing data, improving accuracy and consistency. It enforces coordinate boundaries `[-100.0, 100.0]` and ensures 100% extremism ratings result in at least one coordinate at `+/-100.0`.
+    * **input**: `political_ideologies_structured_data.jsonl`, `ideology_influence_graph.json`, `tierlistgraph.json`, `tier[1-4]_ideologies.json`.
+    * **output**: `political_ideologies_coordinates.jsonl` (final dataset with assigned coordinates).
+    * **temporary file**: `temp_tier_order.json` (for processing order).
 
-      * **Input**: `political_ideologies_structured_data.jsonl`, `ideology_influence_graph.json` (graph of ideology influences).
-      * **Output**: `tierlistgraph.json` (ideologies with extremism ratings), `tier1_ideologies.json`, `tier2_ideologies.json`, `tier3_ideologies.json`, `tier4_ideologies.json` (tiered ideology data based on extremism).
+* **`train_distilbert.py`**:
+    * **purpose**: Fine-tunes a deep learning model for text-to-coordinate regression.
+    * **method**: Fine-tunes `distilbert-base-uncased`, a transformer-based neural network. distilbert is a smaller, efficient bert-like model chosen for its balance of semantic understanding and computational efficiency. It learns to map ideology text descriptions (`article_body`) to their assigned (x, y) coordinates. Training uses `num_train_epochs=20`, `max_length=512`, `fp16` for memory efficiency, and checkpointing for resume capability. it performs a regression task, directly outputting two numerical values.
+    * **input**: `political_ideologies_coordinates.jsonl`.
+    * **output**: `distilbert_checkpoints/final_model/` (contains the fine-tuned distilbert model and tokenizer).
 
-  * **`coordinates.py`**: Assigns political compass (X, Y) coordinates to each ideology. Uses the Gemini API, considering ideology descriptions, alignments, extremism ratings, and coordinates of related ideologies.
+* **`plot.py`**:
+    * **purpose**: Predicts user input coordinates and visualizes them on a political compass.
+    * **method**: Loads the fine-tuned distilbert model. For user-provided text, it generates a semantic embedding (vector representation) using the fine-tuned model. It then applies k-nearest neighbors (KNN) to find the `k` most semantically similar known ideologies (from `political_ideologies_coordinates.jsonl`) in the embedding space. KNN ensures predictions are grounded within the established political compass space. The user's predicted coordinates are a weighted average of these `k` neighbors' actual coordinates.
+    * **input**: `political_ideologies_coordinates.jsonl`, `distilbert_checkpoints/final_model/`.
+    * **output**: `user_compass_prediction.html` (interactive html visualization).
 
-      * **Input**: `political_ideologies_structured_data.jsonl`, `ideology_influence_graph.json`, `tierlistgraph.json`, `tier[1-4]_ideologies.json`.
-      * **Output**: `political_ideologies_coordinates.jsonl` (ideologies with assigned coordinates).
-      * **Temporary File**: `temp_tier_order.json` (deleted after use).
+* **`requirements.txt`**: Lists all python package dependencies.
 
-  * **`train_dilstilbert.py`**: Fine-tunes a DistilBERT model for regression. Trains the model to predict (X, Y) coordinates based on ideology text descriptions. Includes checkpointing for resuming training.
+### Data Files (Generated by Programs)
 
-      * **Input**: `political_ideologies_coordinates.jsonl`.
-      * **Output**: `distilbert_checkpoints/final_model/` (contains the fine-tuned DistilBERT model and tokenizer).
+* **`political_ideologies_structured_data.jsonl`**: Raw scraped data, including ideology names, article bodies, and infobox details. (generated by `data.py`).
+* **`ideology_influence_graph.json`**: Graph data representing influence relationships between ideologies. this graph is crucial for `ratings.py` and `coordinates.py` To propagate information from known to unknown nodes. (generated by a prior, unlisted program; input for `ratings.py` and `coordinates.py`).
+* **`tierlistgraph.json`**: Mapping of ideologies to their assigned extremism ratings. (generated by `ratings.py`).
+* **`tier[1-4]_ideologies.json`**: Individual json files for ideologies categorized by extremism tier. (generated by `ratings.py`).
+* **`political_ideologies_coordinates.jsonl`**: The core dataset containing each ideology's name, article body, infobox details, and its final (x, y) political compass coordinates. (generated by `coordinates.py`).
+* **`concept_manifestos.jsonl`**: llm-generated affirmative and negative manifestos for fine-grained political concepts. (generated by `programx_concept_manifesto_generator.py`, a separate script used for question design, not included in this repository).
 
-  * **`plot.py`**: Takes user-provided text input, uses the fine-tuned DistilBERT model to predict its political compass coordinates, and generates an interactive HTML visualization.
+### Missing Files (Not Included in Repository due to Size)
 
-      * **Input**: `political_ideologies_coordinates.jsonl`, `distilbert_checkpoints/final_model/`.
-      * **Output**: `user_compass_prediction.html` (interactive visualization).
+* `distilbert_checkpoints/`: This directory, containing the fine-tuned distilbert model and tokenizer, is generated by `train_distilbert.py` during training. It is typically too large for direct repository inclusion.
 
-  * **`requirements.txt`**: Lists all Python packages required for the project.
+### Training `train_distilbert.py` in Google Colab
 
-  * **`political_ideologies_structured_data.jsonl`**: Contains scraped ideology names, article bodies, and infobox details. Generated by `data.py`.
+`train_distilbert.py` was developed and primarily executed in a google colab environment. This is due to the necessity of **gpu access** for efficient transformer model fine-tuning, which colab provides free of charge. Local machines often lack the required gpu vram.
 
-  * **`ideology_influence_graph.json`**: Represents the influence relationships between ideologies. (Generated by a prior, unlisted program, but is a dependency for `rating.py` and `program6_coordinate_rater.py`).
-
-  * **`tierlistgraph.json`**: Stores ideologies with their assigned extremism ratings. Generated by `rating.py`.
-
-  * **`tier[1-4]_ideologies.json`**: Individual JSON files for ideologies categorized by extremism tier. Generated by `rating.py`.
-
-  * **`political_ideologies_coordinates.jsonl`**: Final dataset of ideologies with their assigned political compass coordinates. Generated by `coordinates.py`.
-
-  * **`ideology_names.json`**: Just a file with all ideologies listed. Thats it.
-
-  * **`political_ideologies_predictions_and_interpretations.jsonl`**: (An older output file from a previous iteration. Not directly used by the current `plot.py`).
-
-### Missing Files (Not Included in Repository)
-
-Due to file size limitations, the actual fine-tuned DistilBERT model and tokenizer are not included:
-
-  * `distilbert_checkpoints/` (This directory, containing `final_model/` and `checkpoint-*` folders, is generated by `train_dilstilbert.py`).
-
-### Training `train_dilstilbert.py`
-
-`train_dilstilbert.py` was primarily developed and run in a Google Colab environment. This was due to:
-
-  * **GPU Access**: Fine-tuning large language models like DistilBERT is computationally intensive and requires a GPU. Colab provides free access to GPUs.
-  * **Resource Constraints**: Local machines (especially consumer-grade) often lack sufficient VRAM for efficient transformer model training.
-
-### Running in Google Colab
-
-To run this project in Google Colab:
-
-1.  **Upload files**: Upload all `.py` and `.jsonl`/`.json` files (except `distilbert_checkpoints/`) to a Google Drive folder (e.g., `PoliticalCompassData`).
-2.  **Mount Google Drive**: In your Colab notebook, mount your Google Drive:
-    ```python
-    from google.colab import drive
-    drive.mount('/content/drive')
-    ```
-3.  **Adjust `base_path`**: Modify the `base_path` variable in each script to point to your Google Drive folder (e.g., `base_path = "/content/drive/MyDrive/PoliticalCompassData/"`).
-4.  **Install dependencies**: Run `!pip install -r requirements.txt` in a Colab cell.
-5.  **Execute scripts**: Run each program sequentially (e.g., `!data.py`). For `rating.py` and `coordinates.py`, you may need to re-run the cell multiple times if API quotas are hit. `train_dilstilbert.py` will also benefit from checkpointing for longer training sessions.
+To run this project in google colab:
+1.  **upload files**: place all `.py` and `.jsonl`/`.json` files (excluding `distilbert_checkpoints/`) into a google drive folder.
+2.  **mount google drive**: in your colab notebook, execute `from google.colab import drive; drive.mount('/content/drive')`.
+3.  **adjust `base_path`**: modify the `base_path` variable in each script to `base_path = "/content/drive/MyDrive/YourPoliticalCompassDataFolder/"`.
+4.  **install dependencies**: run `!pip install -r requirements.txt` in a colab cell.
+5.  **execute scripts**: run programs sequentially (e.g., `!python data.py`). for `ratings.py` and `coordinates.py`, re-run the cell if api rate limits are encountered. `train_distilbert.py` will automatically resume training from checkpoints if the colab session disconnects.
 
 
 ### Install Requirements:
