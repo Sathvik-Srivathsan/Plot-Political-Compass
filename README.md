@@ -73,7 +73,7 @@ To run this project in Google Colab:
 5.  **Execute scripts**: Run each program sequentially (e.g., `!data.py`). For `rating.py` and `coordinates.py`, you may need to re-run the cell multiple times if API quotas are hit. `train_dilstilbert.py` will also benefit from checkpointing for longer training sessions.
 
 
-###
+### Install Requirements:
 
   `
   pip install -r requirements.txt
