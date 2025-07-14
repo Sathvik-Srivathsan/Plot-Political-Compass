@@ -20,7 +20,7 @@ This repository contains Python programs for building a political compass predic
     * **Method**: Employs gemini api for coordinate assignment. Uses RAG, providing the llm with the ideology's description, alignment, extremism rating, and coordinates of nearby (by extremism rating) related ideologies. RAG grounds the llm's Output in existing data, improving accuracy and consistency. It enforces coordinate boundaries `[-100.0, 100.0]` and ensures 100% extremism ratings result in at least one coordinate at `+/-100.0`.
     * **Input**: `political_ideologies_structured_data.jsonl`, `ideology_influence_graph.json`, `tierlistgraph.json`, `tier[1-4]_ideologies.json`.
     * **Output**: `political_ideologies_coordinates.jsonl` (final dataset with assigned coordinates).
-    * **temporary file**: `temp_tier_order.json` (for processing order).
+    * **Temporary File**: `temp_tier_order.json` (for processing order).
 
 * **`train_distilbert.py`**:
     * **Purpose**: Fine-tunes a deep learning model for text-to-coordinate regression.
@@ -54,11 +54,11 @@ This repository contains Python programs for building a political compass predic
 `train_distilbert.py` was developed and primarily executed in a google colab environment. This is due to the necessity of **gpu access** for efficient transformer model fine-tuning, which colab provides free of charge. Local machines often lack the required gpu vram.
 
 To run this project in google colab:
-1.  **upload files**: place all `.py` and `.jsonl`/`.json` files (excluding `distilbert_checkpoints/`) into a google drive folder.
-2.  **mount google drive**: in your colab notebook, execute `from google.colab import drive; drive.mount('/content/drive')`.
-3.  **adjust `base_path`**: modify the `base_path` variable in each script to `base_path = "/content/drive/MyDrive/YourPoliticalCompassDataFolder/"`.
-4.  **install dependencies**: run `!pip install -r requirements.txt` in a colab cell.
-5.  **execute scripts**: run programs sequentially (e.g., `!python data.py`). for `ratings.py` and `coordinates.py`, re-run the cell if api rate limits are encountered. `train_distilbert.py` will automatically resume training from checkpoints if the colab session disconnects.
+1.  **Upload Files**: place all `.py` and `.jsonl`/`.json` files (excluding `distilbert_checkpoints/`) into a google drive folder.
+2.  **Mount Google Drive**: in your colab notebook, execute `from google.colab import drive; drive.mount('/content/drive')`.
+3.  **Ddjust `base_path`**: modify the `base_path` variable in each script to `base_path = "/content/drive/MyDrive/YourPoliticalCompassDataFolder/"`.
+4.  **Install Dependencies**: run `!pip install -r requirements.txt` in a colab cell.
+5.  **Execute Scripts**: run programs sequentially (e.g., `!python data.py`). for `ratings.py` and `coordinates.py`, re-run the cell if api rate limits are encountered. `train_distilbert.py` will automatically resume training from checkpoints if the colab session disconnects.
 
 
 ### Install Requirements:
