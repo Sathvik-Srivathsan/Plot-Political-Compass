@@ -1,6 +1,6 @@
 # Plot-Political-Compass
 
-This repository contains Python programs for building a political compass prediction system. It covers data acquisition, AI-assisted data labeling, deep learning model fine-tuning, and user Input visualization.
+Contains programs for building a political compass prediction system. Covers data acquisition, AI-assisted data labeling, deep learning model fine-tuning, and user Input visualization.
 
 ### Repository Structure and File Descriptions
 
