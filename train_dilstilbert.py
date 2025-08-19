@@ -70,7 +70,7 @@ def run_predictor_and_interpreter():
                     print(f"skipping '{data.get('ideology_name', 'unknown')}' due to missing or invalid coordinates.")
         
         if not original_ideologies_data:
-            print(f"error: no ideologies with valid coordinates found. ensure phase 3 completed successfully.")
+            print(f"error: no ideologies with valid coordinates found.")
             return
 
     except filenotfounderror:
